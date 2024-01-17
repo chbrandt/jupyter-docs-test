@@ -1,3 +1,4 @@
+import csv
 import requests
 
 def fetch_issues(repo):
@@ -21,9 +22,11 @@ def main():
         all_issues.extend(fetch_issues(repo))
 
     with open('jupyter_docs_issues.csv', 'w') as file:
-        file.write('Repo,Number,Title,URL\n')
+        fieldnames = ['repo', 'number', 'title', 'url']
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
         for issue in all_issues:
-            file.write(f"{issue['repo']},{issue['number']},{issue['title']},{issue['url']}\n")
+            writer.writerow(issue)
 
 if __name__ == "__main__":
     main()
