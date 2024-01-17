@@ -20,9 +20,11 @@ def fetch_issues(repo, label='documentation'):
     return issues
 
 
+FIELDNAMES = ['repo', 'number', 'title', 'url']
+
 # CSV reader/writer arguments for our 'issues' file
 _CSV_ARGS = dict(
-    fieldnames = ['repo', 'number', 'title', 'url'],
+    fieldnames = FIELDNAMES,
     quoting = csv.QUOTE_NONNUMERIC,
 )
 
@@ -44,18 +46,33 @@ def read_issues(filename):
     return issues
 
 
-def write_issues(issues, filename):
+def write_issues(issues, filename, write_md=False):
     """
-    Write 'issues' to CSV 'filename'
+    Write 'issues' to CSV 'filename'. Right a Markdown copy if 'write_md' True.
     """
-    with open(filename, 'w') as file:
-        writer = csv.DictWriter(file, **_CSV_ARGS)
-        # Write header line (ie, fieldnames)
-        writer.writeheader()
-        for key,issue in issues.items():
-            repo, number = key.split(':')
-            issue.update({'repo':repo, 'number':number})
-            writer.writerow(issue)
+    def _write_csv(issues, filename):
+        with open(filename, 'w') as file:
+            writer = csv.DictWriter(file, **_CSV_ARGS)
+            # Write header line (ie, fieldnames)
+            writer.writeheader()
+            for key,issue in issues.items():
+                repo, number = key.split(':')
+                issue.update({'repo':repo, 'number':number})
+                writer.writerow(issue)
+
+    def _write_md(issues, filename):
+        filename = '.'.join(filename.split('.')[:-1]) + '.md'
+        with open(filename, 'w') as file:
+            file.write(f"|{'|'.join(FIELDNAMES)}|\n")
+            file.write(f"|{'|'.join(['===']*len(FIELDNAMES))}|\n")
+            for key,issue in issues.items():
+                repo, number = key.split(':')
+                issue.update({'repo':repo, 'number':number})
+                file.write(f"|{'|'.join(issue[key] for key in FIELDNAMES)}|\n")
+
+    _write_csv(issues, filename)
+    if write_md:
+        _write_md(issues, filename)
 
 
 def read_list(filename):
@@ -77,7 +94,7 @@ def read_list(filename):
     return lines
 
 
-def main():
+def main(repos_file, issues_file, write_md):
     """
     Write CSV file from 'documentation' issues from 'repos_source.txt' file
 
@@ -86,11 +103,11 @@ def main():
     are collected and written in 'issues.csv'.
     """
     # List of (Github) repositories to query
-    repos_file = 'repos.list'
+    # repos_file = 'repos.list'
     # Issues' label (applied to all repos)
     label = 'documentation'
     # Retrieved issues table
-    issues_file = 'issues.csv'
+    # issues_file = 'issues.csv'
 
     # Read list of repositories
     repos = read_list(repos_file)
@@ -120,8 +137,22 @@ def main():
     all_issues.update(issues)
 
     ## Write "new-current" list of issues
-    write_issues(all_issues, issues_file)
+    write_issues(all_issues, issues_file, write_md)
 
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--repos-file", default="repos.list",
+                        help="Filename with list of Jupyter repos")
+    parser.add_argument("--issues-file", default="issues.csv",
+                        help="Filename for issues table (CSV)")
+    parser.add_argument("--write-md", action="store_true",
+                        help="Write a Markdown file (copy) of issues table")
+    args = parser.parse_args()
+
+    main(
+        repos_file=args.repos_file,
+        issues_file=args.issues_file,
+        write_md=args.write_md
+        )
