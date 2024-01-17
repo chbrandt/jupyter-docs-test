@@ -1,0 +1,6 @@
+# List of repositories to query/source
+
+jupyterlab/jupyterlab
+jupyterlab/jupyterlab-desktop
+jupyter/notebook
+jupyterhub/jupyterhub
