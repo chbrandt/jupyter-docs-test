@@ -1,10 +1,11 @@
 name: Track Documentation Issues
 
 on:
-  workflow_call:
   schedule:
     - cron: '0 0 * * *'  # Runs at midnight every day
 
+  workflow_dispatch:
+  
 
 jobs:
   track-issues:
