@@ -27,7 +27,7 @@ jobs:
         pip install requests
 
     - name: Fetch Documentation Issues
-      run: python fetch_issues.py
+      run: python fetch_issues.py --write-md
 
     - name: Commit and Push if Changes Exist
       run: |
