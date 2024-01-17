@@ -1,5 +1,5 @@
 |repo|number|title|url|
-|===|===|===|===|
+|---|---|---|---|
 |jupyterlab/jupyterlab|15648|User-facing changelog for 4.1|https://github.com/jupyterlab/jupyterlab/pull/15648|
 |jupyterlab/jupyterlab|15626|Update lifecycle info for JupyterLab major versions|https://github.com/jupyterlab/jupyterlab/pull/15626|
 |jupyterlab/jupyterlab|15623|Dark High Contrast Theme for JupyterLab with Improved Sidebar Focus Indication|https://github.com/jupyterlab/jupyterlab/pull/15623|

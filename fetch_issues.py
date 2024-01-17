@@ -64,7 +64,7 @@ def write_issues(issues, filename, write_md=False):
         filename = '.'.join(filename.split('.')[:-1]) + '.md'
         with open(filename, 'w') as file:
             file.write(f"|{'|'.join(FIELDNAMES)}|\n")
-            file.write(f"|{'|'.join(['===']*len(FIELDNAMES))}|\n")
+            file.write(f"|{'|'.join(['---']*len(FIELDNAMES))}|\n")
             for key,issue in issues.items():
                 repo, number = key.split(':')
                 issue.update({'repo':repo, 'number':number})
