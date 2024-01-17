@@ -1,0 +1,35 @@
+name: Track Documentation Issues
+
+on:
+  workflow_call:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight every day
+
+
+jobs:
+  track-issues:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        pip install requests
+
+    - name: Fetch Documentation Issues
+      run: python fetch_issues.py
+
+    - name: Commit and Push if Changes Exist
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add .
+        git diff --staged --quiet || git commit -m "Update documentation issues"
+        git push
