@@ -1,4 +1,4 @@
-Repo,Number,Title,URL
+repo,number,title,url
 jupyterlab/jupyterlab,15648,User-facing changelog for 4.1,https://github.com/jupyterlab/jupyterlab/pull/15648
 jupyterlab/jupyterlab,15626,Update lifecycle info for JupyterLab major versions,https://github.com/jupyterlab/jupyterlab/pull/15626
 jupyterlab/jupyterlab,15623,Dark High Contrast Theme for JupyterLab with Improved Sidebar Focus Indication,https://github.com/jupyterlab/jupyterlab/pull/15623
@@ -15,7 +15,7 @@ jupyterlab/jupyterlab,14838,Lab/NB7 extension compatibility docs,https://github.
 jupyterlab/jupyterlab,14826,Document process of adding new commands to the command palette ,https://github.com/jupyterlab/jupyterlab/issues/14826
 jupyterlab/jupyterlab,14775,3.6.5: documentation build fails,https://github.com/jupyterlab/jupyterlab/issues/14775
 jupyterlab/jupyterlab,14730,How to add/insert a new cell with pre defined content to cellList in 4.0.2,https://github.com/jupyterlab/jupyterlab/issues/14730
-jupyterlab/jupyterlab,14679,Default "open" application when opening files inside Jupyterlab,https://github.com/jupyterlab/jupyterlab/issues/14679
+jupyterlab/jupyterlab,14679,"Default ""open"" application when opening files inside Jupyterlab",https://github.com/jupyterlab/jupyterlab/issues/14679
 jupyterlab/jupyterlab,14675,Automatic download links per OS,https://github.com/jupyterlab/jupyterlab/pull/14675
 jupyterlab/jupyterlab,14669,Extension tutorial enhancement,https://github.com/jupyterlab/jupyterlab/pull/14669
 jupyterlab/jupyterlab,14650,Update README.md,https://github.com/jupyterlab/jupyterlab/pull/14650
@@ -26,14 +26,14 @@ jupyterlab/jupyterlab,14396,Create an accessibility section in the user JupyterL
 jupyterlab/jupyterlab,14386,Support interactivity for python source files (ipython's cell magics and live execution),https://github.com/jupyterlab/jupyterlab/issues/14386
 jupyterlab/jupyterlab,14351,Documenting the requirements of `OK` extension status,https://github.com/jupyterlab/jupyterlab/issues/14351
 jupyterlab/jupyterlab,14294,Better messaging around conflicts with sharedPackages,https://github.com/jupyterlab/jupyterlab/issues/14294
-jupyterlab/jupyterlab,14283,Trying to disable build check, current instructions not working as expected,https://github.com/jupyterlab/jupyterlab/issues/14283
+jupyterlab/jupyterlab,14283,"Trying to disable build check, current instructions not working as expected",https://github.com/jupyterlab/jupyterlab/issues/14283
 jupyterlab/jupyterlab,14258,Lumino Widgets >= 2.0.0 is incompatible with JupyterLab Extension Tutorial example code,https://github.com/jupyterlab/jupyterlab/issues/14258
 jupyterlab/jupyterlab,14046,Clean up license,https://github.com/jupyterlab/jupyterlab/pull/14046
 jupyterlab/jupyterlab-desktop,666,Support Windows Subsystem for Linux (WSL),https://github.com/jupyterlab/jupyterlab-desktop/issues/666
 jupyterlab/jupyterlab-desktop,654,conversation starter for introductory docs,https://github.com/jupyterlab/jupyterlab-desktop/pull/654
-jupyterlab/jupyterlab-desktop,577,After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.,https://github.com/jupyterlab/jupyterlab-desktop/issues/577
+jupyterlab/jupyterlab-desktop,577,"After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.",https://github.com/jupyterlab/jupyterlab-desktop/issues/577
 jupyter/notebook,7149,Provide access to the documentation for older version,https://github.com/jupyter/notebook/issues/7149
-jupyter/notebook,7148,Installation guide (android, termux),https://github.com/jupyter/notebook/issues/7148
+jupyter/notebook,7148,"Installation guide (android, termux)",https://github.com/jupyter/notebook/issues/7148
 jupyter/notebook,7029,Add guidelines for setting up development environment using yarn and npm in CONTRIBUTING.md,https://github.com/jupyter/notebook/issues/7029
 jupyter/notebook,7015,Missing notebook.auth submodule?,https://github.com/jupyter/notebook/issues/7015
 jupyter/notebook,6987,JN 7 → Code Folding starts at the first line regardless the type,https://github.com/jupyter/notebook/issues/6987
@@ -46,10 +46,10 @@ jupyter/notebook,6680,Add a large deprecation notice to the front-end extensions
 jupyter/notebook,6659,Document .ipynb_checkpoints directory,https://github.com/jupyter/notebook/issues/6659
 jupyter/notebook,6644,Updates to the contributor.rst file and addition of CONFIGURATION.md file,https://github.com/jupyter/notebook/pull/6644
 jupyter/notebook,6486,feature request: add run buttons like ipynb extension for vscode,https://github.com/jupyter/notebook/issues/6486
-jupyter/notebook,4304,Running `jupyter notebook` opens visual studio code, not a browser,https://github.com/jupyter/notebook/issues/4304
+jupyter/notebook,4304,"Running `jupyter notebook` opens visual studio code, not a browser",https://github.com/jupyter/notebook/issues/4304
 jupyter/notebook,4178,Buttons don't show up properly in Sphinx docs,https://github.com/jupyter/notebook/issues/4178
 jupyter/notebook,3550,Add faq entry about installing on python without sqlite extensions,https://github.com/jupyter/notebook/issues/3550
-jupyter/notebook,2190,"Enter command mode" has no function in keyboard shortcut editor ,https://github.com/jupyter/notebook/issues/2190
+jupyter/notebook,2190,"""Enter command mode"" has no function in keyboard shortcut editor ",https://github.com/jupyter/notebook/issues/2190
 jupyter/notebook,1744,Safari can't connect to kernel,https://github.com/jupyter/notebook/issues/1744
 jupyter/notebook,1643,Run cells from script or the command line?,https://github.com/jupyter/notebook/issues/1643
 jupyter/notebook,1473,Translating notebook contents,https://github.com/jupyter/notebook/issues/1473
@@ -64,13 +64,13 @@ jupyterhub/jupyterhub,4656,FastAPI service example - Authorization header not se
 jupyterhub/jupyterhub,4653,Minor broken docs: reference to wiki,https://github.com/jupyterhub/jupyterhub/issues/4653
 jupyterhub/jupyterhub,4610,Better documentation on how to customize the home page,https://github.com/jupyterhub/jupyterhub/issues/4610
 jupyterhub/jupyterhub,4253,docs: simplify api docs generation for comparison,https://github.com/jupyterhub/jupyterhub/pull/4253
-jupyterhub/jupyterhub,4252,docs: classes generated docs sometimes include non-traits members, and sometimes do,https://github.com/jupyterhub/jupyterhub/issues/4252
+jupyterhub/jupyterhub,4252,"docs: classes generated docs sometimes include non-traits members, and sometimes do",https://github.com/jupyterhub/jupyterhub/issues/4252
 jupyterhub/jupyterhub,4241,More documentation on the implications of `server.name`,https://github.com/jupyterhub/jupyterhub/issues/4241
 jupyterhub/jupyterhub,4213,`post_auth_hook` documentation update,https://github.com/jupyterhub/jupyterhub/issues/4213
 jupyterhub/jupyterhub,4203,PAM Authentication failed,https://github.com/jupyterhub/jupyterhub/issues/4203
 jupyterhub/jupyterhub,4200,Doc fix,https://github.com/jupyterhub/jupyterhub/pull/4200
 jupyterhub/jupyterhub,4197,Unaligned Text Blocks on JupyterHub REST API Page (Mobile View),https://github.com/jupyterhub/jupyterhub/issues/4197
-jupyterhub/jupyterhub,4138,404 Error when try to "edit this page" on JupyterHub home page,https://github.com/jupyterhub/jupyterhub/issues/4138
+jupyterhub/jupyterhub,4138,"404 Error when try to ""edit this page"" on JupyterHub home page",https://github.com/jupyterhub/jupyterhub/issues/4138
 jupyterhub/jupyterhub,4108,I corrected errors and made an update to api-only.md,https://github.com/jupyterhub/jupyterhub/pull/4108
 jupyterhub/jupyterhub,3814,Update JupyterHub REST API permission examples with jupyterhub-idle-culler,https://github.com/jupyterhub/jupyterhub/issues/3814
 jupyterhub/jupyterhub,3801,Illustrate create() classmethod idea,https://github.com/jupyterhub/jupyterhub/pull/3801
