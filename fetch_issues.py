@@ -7,7 +7,7 @@ def fetch_issues(repo):
     if response.status_code == 200:
         for issue in response.json():
             issues.append({
-                'repo': repo
+                'repo': repo,
                 'number': issue['number'],
                 'title': issue['title'],
                 'url': issue['html_url']
