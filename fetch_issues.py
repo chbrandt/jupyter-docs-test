@@ -2,6 +2,7 @@ import csv
 import requests
 from pprint import pprint
 
+
 def fetch_issues(repo, label='documentation'):
     """
     Query Github repos for issues with 'label'
@@ -19,15 +20,19 @@ def fetch_issues(repo, label='documentation'):
     return issues
 
 
+# CSV reader/writer arguments for our 'issues' file
 _CSV_ARGS = dict(
     fieldnames = ['repo', 'number', 'title', 'url'],
     quoting = csv.QUOTE_NONNUMERIC,
 )
 
 
-def read_issues(issues_file):
+def read_issues(filename):
+    """
+    Read issues from CSV 'filename'
+    """
     issues = {}
-    with open(issues_file) as file:
+    with open(filename) as file:
         reader = csv.DictReader(file, **_CSV_ARGS)
         # Escape the first/header line
         next(reader)
@@ -40,6 +45,9 @@ def read_issues(issues_file):
 
 
 def write_issues(issues, filename):
+    """
+    Write 'issues' to CSV 'filename'
+    """
     with open(filename, 'w') as file:
         writer = csv.DictWriter(file, **_CSV_ARGS)
         # Write header line (ie, fieldnames)
@@ -86,31 +94,32 @@ def main():
 
     # Read list of repositories
     repos = read_list(repos_file)
-    print("Repos:", repos)
+    # print("Repos:", repos)
 
-    # Read current/pass list of issues
+    # Read "old-current" list of issues
     try:
         current_issues = read_issues(issues_file)
-        print("Current issues:")
-        pprint(current_issues.keys())
+        # print("Current issues:", current_issues.keys())
     except FileNotFoundError as err:
-        print("No previous issues to read.")
         current_issues = None
+        # print("No previous issues to read.")
 
+    ## Query repos for issues with 'label'
     issues = {}
     for repo in repos:
         issues.update(
             fetch_issues(repo, label=label)
             )
-    print("Queried issues:")
-    pprint(issues.keys())
 
-    if current_issues:
-        print("Diff:", set(issues).symmetric_difference(current_issues))
+    # print("Queried issues:", issues.keys())
+    # if current_issues:
+    #     print("Diff:", set(issues).symmetric_difference(current_issues))
 
+    ## Merge old/new list of issues
     all_issues = current_issues.copy() if current_issues else {}
     all_issues.update(issues)
 
+    ## Write "new-current" list of issues
     write_issues(all_issues, issues_file)
 
 
