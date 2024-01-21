@@ -90,3 +90,5 @@
 "jupyterlab/jupyterlab","13983","Add label/caption styles to writing style guide","https://github.com/jupyterlab/jupyterlab/issues/13983"
 "jupyterhub/jupyterhub","4678","pre_spawn_hook doc: make example generic to all spawners","https://github.com/jupyterhub/jupyterhub/pull/4678"
 "jupyterhub/jupyterhub","4676","Add appropriate scope in examples/service-whoami-flask","https://github.com/jupyterhub/jupyterhub/pull/4676"
+"jupyterlab/jupyterlab","15669","Mention jupyter-ai pre-release in inline completer changelog section","https://github.com/jupyterlab/jupyterlab/pull/15669"
+"jupyterlab/jupyterlab","15668","Automated Changelog Entry - Remove 1 placeholder entries.","https://github.com/jupyterlab/jupyterlab/pull/15668"
