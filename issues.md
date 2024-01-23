@@ -93,3 +93,4 @@
 |jupyterhub/jupyterhub|4676|Add appropriate scope in examples/service-whoami-flask|https://github.com/jupyterhub/jupyterhub/pull/4676|
 |jupyterlab/jupyterlab|15669|Mention jupyter-ai pre-release in inline completer changelog section|https://github.com/jupyterlab/jupyterlab/pull/15669|
 |jupyterlab/jupyterlab|15668|Automated Changelog Entry - Remove 1 placeholder entries.|https://github.com/jupyterlab/jupyterlab/pull/15668|
+|jupyterlab/jupyterlab|13971|Request for best practices/guidance on creating stable extensions which aren't version-dependent|https://github.com/jupyterlab/jupyterlab/issues/13971|
