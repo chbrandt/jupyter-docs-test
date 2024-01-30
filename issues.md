@@ -47,6 +47,7 @@
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|774|Notebook Events|https://github.com/jupyter/notebook/issues/774|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
+|jupyterhub/jupyterhub|4682|Note that you can throw a 403 from check_allowed|https://github.com/jupyterhub/jupyterhub/pull/4682|
 |jupyterhub/jupyterhub|4673|Document / better support for separating user domains from the Hub domain|https://github.com/jupyterhub/jupyterhub/issues/4673|
 |jupyterhub/jupyterhub|4669|try redocly for REST API|https://github.com/jupyterhub/jupyterhub/issues/4669|
 |jupyterhub/jupyterhub|4656|FastAPI service example - Authorization header not sent in subsequent requests|https://github.com/jupyterhub/jupyterhub/issues/4656|
@@ -75,6 +76,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|15710|Removes Python 3.0, Notebook 5 mentions from contributor docs|https://github.com/jupyterlab/jupyterlab/pull/15710|
 |jupyterlab/jupyterlab|15626|Update lifecycle info for JupyterLab major versions|https://github.com/jupyterlab/jupyterlab/pull/15626|
 |jupyterlab/jupyterlab|15623|Dark High Contrast Theme for JupyterLab with Improved Sidebar Focus Indication|https://github.com/jupyterlab/jupyterlab/pull/15623|
 |jupyterlab/jupyterlab|15483|Reopen recently opened/closed files and modal navigation|https://github.com/jupyterlab/jupyterlab/pull/15483|
@@ -104,7 +106,6 @@
 |jupyterlab/jupyterlab|14258|Lumino Widgets >= 2.0.0 is incompatible with JupyterLab Extension Tutorial example code|https://github.com/jupyterlab/jupyterlab/issues/14258|
 |jupyterlab/jupyterlab|14046|Clean up license|https://github.com/jupyterlab/jupyterlab/pull/14046|
 |jupyterlab/jupyterlab|13983|Add label/caption styles to writing style guide|https://github.com/jupyterlab/jupyterlab/issues/13983|
-|jupyterlab/jupyterlab|13971|Request for best practices/guidance on creating stable extensions which aren't version-dependent|https://github.com/jupyterlab/jupyterlab/issues/13971|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
