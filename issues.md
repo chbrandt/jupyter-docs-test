@@ -23,10 +23,8 @@
 |jupyter/notebook|7149|Provide access to the documentation for older version|https://github.com/jupyter/notebook/issues/7149|
 |jupyter/notebook|7148|Installation guide (android, termux)|https://github.com/jupyter/notebook/issues/7148|
 |jupyter/notebook|7029|Add guidelines for setting up development environment using yarn and npm in CONTRIBUTING.md|https://github.com/jupyter/notebook/issues/7029|
-|jupyter/notebook|7015|Missing notebook.auth submodule?|https://github.com/jupyter/notebook/issues/7015|
 |jupyter/notebook|6987|JN 7 → Code Folding starts at the first line regardless the type|https://github.com/jupyter/notebook/issues/6987|
 |jupyter/notebook|6981|Rework Notebook 7 docs accessibility section|https://github.com/jupyter/notebook/issues/6981|
-|jupyter/notebook|6891|`@web.authenticated` decorator with IPythonHandler is not working on nbclassic|https://github.com/jupyter/notebook/issues/6891|
 |jupyter/notebook|6875|Get versioned Notebook framework trove classifiers on PyPI|https://github.com/jupyter/notebook/issues/6875|
 |jupyter/notebook|6849|Revise `pyzmq` requirements in documentation|https://github.com/jupyter/notebook/issues/6849|
 |jupyter/notebook|6848|Very poor navigation in new readthedocs builds|https://github.com/jupyter/notebook/issues/6848|
@@ -37,7 +35,6 @@
 |jupyter/notebook|4304|Running `jupyter notebook` opens visual studio code, not a browser|https://github.com/jupyter/notebook/issues/4304|
 |jupyter/notebook|4178|Buttons don't show up properly in Sphinx docs|https://github.com/jupyter/notebook/issues/4178|
 |jupyter/notebook|3550|Add faq entry about installing on python without sqlite extensions|https://github.com/jupyter/notebook/issues/3550|
-|jupyter/notebook|1744|Safari can't connect to kernel|https://github.com/jupyter/notebook/issues/1744|
 |jupyter/notebook|1643|Run cells from script or the command line?|https://github.com/jupyter/notebook/issues/1643|
 |jupyter/notebook|1473|Translating notebook contents|https://github.com/jupyter/notebook/issues/1473|
 |jupyter/notebook|916|File save hooks—docs & question|https://github.com/jupyter/notebook/issues/916|
@@ -74,9 +71,9 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|15774|Fix typing in editable elements inside of open shadow DOM|https://github.com/jupyterlab/jupyterlab/pull/15774|
 |jupyterlab/jupyterlab|15749|Improve documentation for `jupyter.lab.transform`|https://github.com/jupyterlab/jupyterlab/issues/15749|
 |jupyterlab/jupyterlab|15729|Should we use the council members doc page in lieu of the maintainers list in lab readme|https://github.com/jupyterlab/jupyterlab/issues/15729|
-|jupyterlab/jupyterlab|15626|Update lifecycle info for JupyterLab major versions|https://github.com/jupyterlab/jupyterlab/pull/15626|
 |jupyterlab/jupyterlab|15623|Dark High Contrast Theme for JupyterLab with Improved Sidebar Focus Indication|https://github.com/jupyterlab/jupyterlab/pull/15623|
 |jupyterlab/jupyterlab|15483|Reopen recently opened/closed files and modal navigation|https://github.com/jupyterlab/jupyterlab/pull/15483|
 |jupyterlab/jupyterlab|15425|Should proxy environment variables be documented?|https://github.com/jupyterlab/jupyterlab/issues/15425|
@@ -85,7 +82,6 @@
 |jupyterlab/jupyterlab|15139|Mermaid Usage Instructions Missing|https://github.com/jupyterlab/jupyterlab/issues/15139|
 |jupyterlab/jupyterlab|15099|JupyterLab documentation wishlist|https://github.com/jupyterlab/jupyterlab/issues/15099|
 |jupyterlab/jupyterlab|14964|Add a screenshot with shell areas overview|https://github.com/jupyterlab/jupyterlab/pull/14964|
-|jupyterlab/jupyterlab|14934|Links are broken in Notebooks documentation |https://github.com/jupyterlab/jupyterlab/issues/14934|
 |jupyterlab/jupyterlab|14838|Lab/NB7 extension compatibility docs|https://github.com/jupyterlab/jupyterlab/pull/14838|
 |jupyterlab/jupyterlab|14826|Document process of adding new commands to the command palette |https://github.com/jupyterlab/jupyterlab/issues/14826|
 |jupyterlab/jupyterlab|14775|3.6.5: documentation build fails|https://github.com/jupyterlab/jupyterlab/issues/14775|
@@ -104,6 +100,7 @@
 |jupyterlab/jupyterlab|14258|Lumino Widgets >= 2.0.0 is incompatible with JupyterLab Extension Tutorial example code|https://github.com/jupyterlab/jupyterlab/issues/14258|
 |jupyterlab/jupyterlab|14046|Clean up license|https://github.com/jupyterlab/jupyterlab/pull/14046|
 |jupyterlab/jupyterlab|13983|Add label/caption styles to writing style guide|https://github.com/jupyterlab/jupyterlab/issues/13983|
+|jupyterlab/jupyterlab|13971|Request for best practices/guidance on creating stable extensions which aren't version-dependent|https://github.com/jupyterlab/jupyterlab/issues/13971|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
