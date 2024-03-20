@@ -67,6 +67,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|16020|Improve documentation for workspaces|https://github.com/jupyterlab/jupyterlab/issues/16020|
 |jupyterlab/jupyterlab|16012|Adopt open source security foundation best practices|https://github.com/jupyterlab/jupyterlab/pull/16012|
 |jupyterlab/jupyterlab|16010|Adopt Open Source Security Foundation tools|https://github.com/jupyterlab/jupyterlab/issues/16010|
 |jupyterlab/jupyterlab|15996|Update to Node 20|https://github.com/jupyterlab/jupyterlab/pull/15996|
@@ -96,7 +97,6 @@
 |jupyterlab/jupyterlab|14445|better document the metadata-related changes in jlab4 extension API|https://github.com/jupyterlab/jupyterlab/issues/14445|
 |jupyterlab/jupyterlab|14428|Updating extension status in migration guide|https://github.com/jupyterlab/jupyterlab/pull/14428|
 |jupyterlab/jupyterlab|14396|Create an accessibility section in the user JupyterLab documentation|https://github.com/jupyterlab/jupyterlab/issues/14396|
-|jupyterlab/jupyterlab|14386|Support interactivity for python source files (ipython's cell magics and live execution)|https://github.com/jupyterlab/jupyterlab/issues/14386|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
