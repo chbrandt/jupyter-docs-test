@@ -41,7 +41,6 @@
 |jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
-|jupyterhub/jupyterhub|4743|Officially adopt EffVer|https://github.com/jupyterhub/jupyterhub/pull/4743|
 |jupyterhub/jupyterhub|4673|Document / better support for separating user domains from the Hub domain|https://github.com/jupyterhub/jupyterhub/issues/4673|
 |jupyterhub/jupyterhub|4656|FastAPI service example - Authorization header not sent in subsequent requests|https://github.com/jupyterhub/jupyterhub/issues/4656|
 |jupyterhub/jupyterhub|4610|Better documentation on how to customize the home page|https://github.com/jupyterhub/jupyterhub/issues/4610|
@@ -68,7 +67,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|16052|Backport PR #15909 on branch 4.0.x (Add devcontainer)|https://github.com/jupyterlab/jupyterlab/pull/16052|
+|jupyterlab/jupyterlab|16034|JupyterLab is crashing repeatedly and producing a 'SIGILL' error code when I try to run a large notebook on Chrome|https://github.com/jupyterlab/jupyterlab/issues/16034|
 |jupyterlab/jupyterlab|16020|Improve documentation for workspaces|https://github.com/jupyterlab/jupyterlab/issues/16020|
 |jupyterlab/jupyterlab|16012|Adopt open source security foundation best practices|https://github.com/jupyterlab/jupyterlab/pull/16012|
 |jupyterlab/jupyterlab|16010|Adopt Open Source Security Foundation tools|https://github.com/jupyterlab/jupyterlab/issues/16010|
