@@ -1,5 +1,7 @@
 |repo|number|title|url|
 |---|---|---|---|
+|jupyter/jupyter|704|"Jupyter kernels" wiki page: table incompletely visible|https://github.com/jupyter/jupyter/issues/704|
+|jupyter/jupyter|699|New Documentation Working Group proposal|https://github.com/jupyter/jupyter/issues/699|
 |jupyter/jupyter|683|Add persona centric docs|https://github.com/jupyter/jupyter/issues/683|
 |jupyter/jupyter|667|Use excalidraw for our manually-created diagrams|https://github.com/jupyter/jupyter/issues/667|
 |jupyter/jupyter|657|Refactor the documentation to use the main branch|https://github.com/jupyter/jupyter/issues/657|
@@ -9,6 +11,7 @@
 |jupyter/jupyter|430|Translating Official Documentation to Spanish|https://github.com/jupyter/jupyter/issues/430|
 |jupyter/jupyter|424|Notebook server API documentation lacks information about trust|https://github.com/jupyter/jupyter/issues/424|
 |jupyter/jupyter|412|Some things we can improve in the documentation|https://github.com/jupyter/jupyter/issues/412|
+|jupyter/jupyter|373|Alternative client implementationto Jupyter-Notebook?|https://github.com/jupyter/jupyter/issues/373|
 |jupyter/jupyter|306|Create a man page|https://github.com/jupyter/jupyter/issues/306|
 |jupyter/jupyter|242|Document JSON config format|https://github.com/jupyter/jupyter/issues/242|
 |jupyter/jupyter|220|Glossary in docs|https://github.com/jupyter/jupyter/issues/220|
