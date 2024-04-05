@@ -53,7 +53,6 @@
 |jupyterhub/jupyterhub|4213|`post_auth_hook` documentation update|https://github.com/jupyterhub/jupyterhub/issues/4213|
 |jupyterhub/jupyterhub|4203|PAM Authentication failed|https://github.com/jupyterhub/jupyterhub/issues/4203|
 |jupyterhub/jupyterhub|4200|Doc fix|https://github.com/jupyterhub/jupyterhub/pull/4200|
-|jupyterhub/jupyterhub|4197|Unaligned Text Blocks on JupyterHub REST API Page (Mobile View)|https://github.com/jupyterhub/jupyterhub/issues/4197|
 |jupyterhub/jupyterhub|4138|404 Error when try to "edit this page" on JupyterHub home page|https://github.com/jupyterhub/jupyterhub/issues/4138|
 |jupyterhub/jupyterhub|4108|I corrected errors and made an update to api-only.md|https://github.com/jupyterhub/jupyterhub/pull/4108|
 |jupyterhub/jupyterhub|3814|Update JupyterHub REST API permission examples with jupyterhub-idle-culler|https://github.com/jupyterhub/jupyterhub/issues/3814|
@@ -84,7 +83,6 @@
 |jupyterlab/jupyterlab|15819|File browser checkboxes not keyboard accessible|https://github.com/jupyterlab/jupyterlab/issues/15819|
 |jupyterlab/jupyterlab|15749|Improve documentation for `jupyter.lab.transform`|https://github.com/jupyterlab/jupyterlab/issues/15749|
 |jupyterlab/jupyterlab|15729|Should we use the council members doc page in lieu of the maintainers list in lab readme|https://github.com/jupyterlab/jupyterlab/issues/15729|
-|jupyterlab/jupyterlab|15623|Dark High Contrast Theme for JupyterLab with Improved Sidebar Focus Indication|https://github.com/jupyterlab/jupyterlab/pull/15623|
 |jupyterlab/jupyterlab|15425|Should proxy environment variables be documented?|https://github.com/jupyterlab/jupyterlab/issues/15425|
 |jupyterlab/jupyterlab|15417|Add dedicated plugin system document|https://github.com/jupyterlab/jupyterlab/pull/15417|
 |jupyterlab/jupyterlab|15139|Mermaid Usage Instructions Missing|https://github.com/jupyterlab/jupyterlab/issues/15139|
@@ -100,6 +98,7 @@
 |jupyterlab/jupyterlab|14445|better document the metadata-related changes in jlab4 extension API|https://github.com/jupyterlab/jupyterlab/issues/14445|
 |jupyterlab/jupyterlab|14428|Updating extension status in migration guide|https://github.com/jupyterlab/jupyterlab/pull/14428|
 |jupyterlab/jupyterlab|14396|Create an accessibility section in the user JupyterLab documentation|https://github.com/jupyterlab/jupyterlab/issues/14396|
+|jupyterlab/jupyterlab|14386|Support interactivity for python source files (ipython's cell magics and live execution)|https://github.com/jupyterlab/jupyterlab/issues/14386|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
