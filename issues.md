@@ -69,8 +69,8 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|16234|Update wording from directory to folder in user interface|https://github.com/jupyterlab/jupyterlab/pull/16234|
 |jupyterlab/jupyterlab|16227|Example of standalone app with ipywidgets support|https://github.com/jupyterlab/jupyterlab/issues/16227|
-|jupyterlab/jupyterlab|16207|Last modified header for wide layouts|https://github.com/jupyterlab/jupyterlab/pull/16207|
 |jupyterlab/jupyterlab|16206|Update Accessibility Statement|https://github.com/jupyterlab/jupyterlab/pull/16206|
 |jupyterlab/jupyterlab|16190|Add documentation on using jupyverse|https://github.com/jupyterlab/jupyterlab/pull/16190|
 |jupyterlab/jupyterlab|16179|Document the option to collapse cells while displaying the first line|https://github.com/jupyterlab/jupyterlab/issues/16179|
