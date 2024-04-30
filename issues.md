@@ -93,12 +93,12 @@
 |jupyterlab/jupyterlab|15099|JupyterLab documentation wishlist|https://github.com/jupyterlab/jupyterlab/issues/15099|
 |jupyterlab/jupyterlab|14964|Add a screenshot with shell areas overview|https://github.com/jupyterlab/jupyterlab/pull/14964|
 |jupyterlab/jupyterlab|14826|Document process of adding new commands to the command palette |https://github.com/jupyterlab/jupyterlab/issues/14826|
-|jupyterlab/jupyterlab|14775|3.6.5: documentation build fails|https://github.com/jupyterlab/jupyterlab/issues/14775|
 |jupyterlab/jupyterlab|14730|How to add/insert a new cell with pre defined content to cellList in 4.0.2|https://github.com/jupyterlab/jupyterlab/issues/14730|
 |jupyterlab/jupyterlab|14679|Default "open" application when opening files inside Jupyterlab|https://github.com/jupyterlab/jupyterlab/issues/14679|
 |jupyterlab/jupyterlab|14675|Automatic download links per OS|https://github.com/jupyterlab/jupyterlab/pull/14675|
 |jupyterlab/jupyterlab|14669|Extension tutorial enhancement|https://github.com/jupyterlab/jupyterlab/pull/14669|
 |jupyterlab/jupyterlab|14594|Failed validating settings|https://github.com/jupyterlab/jupyterlab/issues/14594|
+|jupyterlab/jupyterlab|14445|better document the metadata-related changes in jlab4 extension API|https://github.com/jupyterlab/jupyterlab/issues/14445|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
