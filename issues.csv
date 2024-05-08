@@ -69,7 +69,7 @@
 "jupyterhub/jupyterhub","2134","Docs: Unclear / confusing DB upgrade instructions","https://github.com/jupyterhub/jupyterhub/issues/2134"
 "jupyterhub/jupyterhub","2049","Docs: Missing a chapter on monitoring / observability","https://github.com/jupyterhub/jupyterhub/issues/2049"
 "jupyterhub/jupyterhub","1310","Customize DockerHub documentation for JupyterHub","https://github.com/jupyterhub/jupyterhub/issues/1310"
-"jupyterlab/jupyterlab","16282","Support `__ipynb_file__` global variable just like `__vsc_ipynb_file__` in VisualStudio Code","https://github.com/jupyterlab/jupyterlab/issues/16282"
+"jupyterlab/jupyterlab","16282","Document JPY_SESSION_NAME environment variable, which contains current notebook's file path","https://github.com/jupyterlab/jupyterlab/issues/16282"
 "jupyterlab/jupyterlab","16228","Show kernel ID for notebooks and consoles in list view","https://github.com/jupyterlab/jupyterlab/pull/16228"
 "jupyterlab/jupyterlab","16227","Example of standalone app with ipywidgets support","https://github.com/jupyterlab/jupyterlab/issues/16227"
 "jupyterlab/jupyterlab","16206","Update Accessibility Statement","https://github.com/jupyterlab/jupyterlab/pull/16206"
