@@ -45,7 +45,6 @@
 |jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
-|jupyterhub/jupyterhub|4811|Update changelog for 5.0b2|https://github.com/jupyterhub/jupyterhub/pull/4811|
 |jupyterhub/jupyterhub|4673|Document / better support for separating user domains from the Hub domain|https://github.com/jupyterhub/jupyterhub/issues/4673|
 |jupyterhub/jupyterhub|4656|FastAPI service example - Authorization header not sent in subsequent requests|https://github.com/jupyterhub/jupyterhub/issues/4656|
 |jupyterhub/jupyterhub|4610|Better documentation on how to customize the home page|https://github.com/jupyterhub/jupyterhub/issues/4610|
