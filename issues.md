@@ -71,7 +71,6 @@
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
 |jupyterlab/jupyterlab|16320|issue in jupyter|https://github.com/jupyterlab/jupyterlab/issues/16320|
-|jupyterlab/jupyterlab|16314|Run Python tests on MacOS with Python 12, replace `canvas` with `jest-canvas-mock`|https://github.com/jupyterlab/jupyterlab/pull/16314|
 |jupyterlab/jupyterlab|16313|Document need to run "jlpm build:core" before running JupyterLab in dev mode|https://github.com/jupyterlab/jupyterlab/issues/16313|
 |jupyterlab/jupyterlab|16282|Document JPY_SESSION_NAME environment variable, which contains current notebook's file path|https://github.com/jupyterlab/jupyterlab/issues/16282|
 |jupyterlab/jupyterlab|16228|Show kernel ID for notebooks and consoles in list view|https://github.com/jupyterlab/jupyterlab/pull/16228|
@@ -100,6 +99,7 @@
 |jupyterlab/jupyterlab|14730|How to add/insert a new cell with pre defined content to cellList in 4.0.2|https://github.com/jupyterlab/jupyterlab/issues/14730|
 |jupyterlab/jupyterlab|14679|Default "open" application when opening files inside Jupyterlab|https://github.com/jupyterlab/jupyterlab/issues/14679|
 |jupyterlab/jupyterlab|14675|Automatic download links per OS|https://github.com/jupyterlab/jupyterlab/pull/14675|
+|jupyterlab/jupyterlab|14669|Extension tutorial enhancement|https://github.com/jupyterlab/jupyterlab/pull/14669|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
