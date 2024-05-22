@@ -70,7 +70,7 @@
 "jupyterhub/jupyterhub","2049","Docs: Missing a chapter on monitoring / observability","https://github.com/jupyterhub/jupyterhub/issues/2049"
 "jupyterhub/jupyterhub","1310","Customize DockerHub documentation for JupyterHub","https://github.com/jupyterhub/jupyterhub/issues/1310"
 "jupyterlab/jupyterlab","16340","""preferred"" in ""Always start the preferred kernel"" is not documented","https://github.com/jupyterlab/jupyterlab/issues/16340"
-"jupyterlab/jupyterlab","16320","issue in jupyter","https://github.com/jupyterlab/jupyterlab/issues/16320"
+"jupyterlab/jupyterlab","16320","Rewrite ""pending input"" popup to be clearer","https://github.com/jupyterlab/jupyterlab/issues/16320"
 "jupyterlab/jupyterlab","16313","Document need to run ""jlpm build:core"" before running JupyterLab in dev mode","https://github.com/jupyterlab/jupyterlab/issues/16313"
 "jupyterlab/jupyterlab","16282","Document JPY_SESSION_NAME environment variable, which contains current notebook's file path","https://github.com/jupyterlab/jupyterlab/issues/16282"
 "jupyterlab/jupyterlab","16228","Show kernel ID for notebooks and consoles in list view","https://github.com/jupyterlab/jupyterlab/pull/16228"
