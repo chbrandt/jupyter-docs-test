@@ -24,6 +24,7 @@
 |jupyter/jupyter|109|Link to dev-install from Install section.|https://github.com/jupyter/jupyter/issues/109|
 |jupyter/jupyter|66|[Docs] list supported mimetype |https://github.com/jupyter/jupyter/issues/66|
 |jupyter/jupyter|51|Create a better way to manage subproject docs|https://github.com/jupyter/jupyter/issues/51|
+|jupyter/notebook|7382|Adds message about building code before running 'develop'|https://github.com/jupyter/notebook/pull/7382|
 |jupyter/notebook|7149|Provide access to the documentation for older version|https://github.com/jupyter/notebook/issues/7149|
 |jupyter/notebook|7148|Installation guide (android, termux)|https://github.com/jupyter/notebook/issues/7148|
 |jupyter/notebook|7029|Add guidelines for setting up development environment using yarn and npm in CONTRIBUTING.md|https://github.com/jupyter/notebook/issues/7029|
@@ -71,7 +72,7 @@
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
 |jupyterlab/jupyterlab|16381|Updated wording in "Change Kernel" settings|https://github.com/jupyterlab/jupyterlab/pull/16381|
-|jupyterlab/jupyterlab|16365|Fix failing link check (point to  JAWS on Wikipedia)|https://github.com/jupyterlab/jupyterlab/pull/16365|
+|jupyterlab/jupyterlab|16374|Document Auto-Save Feature|https://github.com/jupyterlab/jupyterlab/issues/16374|
 |jupyterlab/jupyterlab|16340|"preferred" in "Always start the preferred kernel" is not documented|https://github.com/jupyterlab/jupyterlab/issues/16340|
 |jupyterlab/jupyterlab|16320|Rewrite "pending input" popup to be clearer|https://github.com/jupyterlab/jupyterlab/issues/16320|
 |jupyterlab/jupyterlab|16313|Document need to run "jlpm build:core" before running JupyterLab in dev mode|https://github.com/jupyterlab/jupyterlab/issues/16313|
