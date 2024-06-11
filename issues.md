@@ -69,7 +69,8 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|16465|Fix(Docs): Add notice for Windows users to activate symbolic links in contributing section|https://github.com/jupyterlab/jupyterlab/pull/16465|
+|jupyterlab/jupyterlab|16474|Backport PR #16465 on branch 4.2.x (Add a notice for Windows users to activate symbolic links in contributing section)|https://github.com/jupyterlab/jupyterlab/pull/16474|
+|jupyterlab/jupyterlab|16457|Fix typo - Remove prefixed single quote to Jupyter|https://github.com/jupyterlab/jupyterlab/issues/16457|
 |jupyterlab/jupyterlab|16451|[WIP] Adding Scorecard.yml Workflow and Scorecard Badge GOSST|https://github.com/jupyterlab/jupyterlab/pull/16451|
 |jupyterlab/jupyterlab|16374|Document Auto-Save Feature|https://github.com/jupyterlab/jupyterlab/issues/16374|
 |jupyterlab/jupyterlab|16340|"preferred" in "Always start the preferred kernel" is not documented|https://github.com/jupyterlab/jupyterlab/issues/16340|
@@ -98,7 +99,6 @@
 |jupyterlab/jupyterlab|15139|Mermaid Usage Instructions Missing|https://github.com/jupyterlab/jupyterlab/issues/15139|
 |jupyterlab/jupyterlab|15099|JupyterLab documentation wishlist|https://github.com/jupyterlab/jupyterlab/issues/15099|
 |jupyterlab/jupyterlab|14964|Add a screenshot with shell areas overview|https://github.com/jupyterlab/jupyterlab/pull/14964|
-|jupyterlab/jupyterlab|14826|Document process of adding new commands to the command palette |https://github.com/jupyterlab/jupyterlab/issues/14826|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
