@@ -52,9 +52,7 @@
 |jupyterhub/jupyterhub|4241|More documentation on the implications of `server.name`|https://github.com/jupyterhub/jupyterhub/issues/4241|
 |jupyterhub/jupyterhub|4213|`post_auth_hook` documentation update|https://github.com/jupyterhub/jupyterhub/issues/4213|
 |jupyterhub/jupyterhub|4203|PAM Authentication failed|https://github.com/jupyterhub/jupyterhub/issues/4203|
-|jupyterhub/jupyterhub|4200|Doc fix|https://github.com/jupyterhub/jupyterhub/pull/4200|
 |jupyterhub/jupyterhub|4138|404 Error when try to "edit this page" on JupyterHub home page|https://github.com/jupyterhub/jupyterhub/issues/4138|
-|jupyterhub/jupyterhub|4108|I corrected errors and made an update to api-only.md|https://github.com/jupyterhub/jupyterhub/pull/4108|
 |jupyterhub/jupyterhub|3814|Update JupyterHub REST API permission examples with jupyterhub-idle-culler|https://github.com/jupyterhub/jupyterhub/issues/3814|
 |jupyterhub/jupyterhub|3710|Unify the documentation for idle-culler|https://github.com/jupyterhub/jupyterhub/issues/3710|
 |jupyterhub/jupyterhub|3684|More detailed docs on direct network interactions|https://github.com/jupyterhub/jupyterhub/issues/3684|
