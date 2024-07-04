@@ -66,7 +66,7 @@
 "jupyterhub/jupyterhub","2049","Docs: Missing a chapter on monitoring / observability","https://github.com/jupyterhub/jupyterhub/issues/2049"
 "jupyterhub/jupyterhub","1310","Customize DockerHub documentation for JupyterHub","https://github.com/jupyterhub/jupyterhub/issues/1310"
 "jupyterlab/jupyterlab","16531","Enhance readability by adjusting sizes of the headings","https://github.com/jupyterlab/jupyterlab/pull/16531"
-"jupyterlab/jupyterlab","16519","Scope CSS rules to .jp-ThemedContainer class","https://github.com/jupyterlab/jupyterlab/pull/16519"
+"jupyterlab/jupyterlab","16519","Scope CSS rules to a new `.jp-ThemedContainer` class","https://github.com/jupyterlab/jupyterlab/pull/16519"
 "jupyterlab/jupyterlab","16503","Backport PR #16450 on branch 4.2.x (Align extension migration docs with the latest extension template)","https://github.com/jupyterlab/jupyterlab/pull/16503"
 "jupyterlab/jupyterlab","16374","Document Auto-Save Feature","https://github.com/jupyterlab/jupyterlab/issues/16374"
 "jupyterlab/jupyterlab","16340","""preferred"" in ""Always start the preferred kernel"" is not documented","https://github.com/jupyterlab/jupyterlab/issues/16340"
