@@ -66,10 +66,10 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|16600|Add a command and instructions to serve documentation files locally|https://github.com/jupyterlab/jupyterlab/pull/16600|
 |jupyterlab/jupyterlab|16586|Describe cell input/output collapsing in the notebook documentation|https://github.com/jupyterlab/jupyterlab/pull/16586|
 |jupyterlab/jupyterlab|16573|Add a command to quickly serve documentation files locally|https://github.com/jupyterlab/jupyterlab/issues/16573|
 |jupyterlab/jupyterlab|16531|Enhance readability by adjusting sizes of the headings|https://github.com/jupyterlab/jupyterlab/pull/16531|
-|jupyterlab/jupyterlab|16503|Backport PR #16450 on branch 4.2.x (Align extension migration docs with the latest extension template)|https://github.com/jupyterlab/jupyterlab/pull/16503|
 |jupyterlab/jupyterlab|16374|Document Auto-Save Feature|https://github.com/jupyterlab/jupyterlab/issues/16374|
 |jupyterlab/jupyterlab|16340|"preferred" in "Always start the preferred kernel" is not documented|https://github.com/jupyterlab/jupyterlab/issues/16340|
 |jupyterlab/jupyterlab|16320|Rewrite "pending input" popup to be clearer|https://github.com/jupyterlab/jupyterlab/issues/16320|
