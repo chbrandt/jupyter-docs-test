@@ -68,6 +68,7 @@
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
 |jupyterlab/jupyterlab|16586|Describe cell input/output collapsing in the notebook documentation|https://github.com/jupyterlab/jupyterlab/pull/16586|
 |jupyterlab/jupyterlab|16531|Enhance readability by adjusting sizes of the headings|https://github.com/jupyterlab/jupyterlab/pull/16531|
+|jupyterlab/jupyterlab|16488|[GSoC 2024] Use toolkit tree view for all tree view: table of content, debugger variables and running tabs|https://github.com/jupyterlab/jupyterlab/pull/16488|
 |jupyterlab/jupyterlab|16374|Document Auto-Save Feature|https://github.com/jupyterlab/jupyterlab/issues/16374|
 |jupyterlab/jupyterlab|16340|"preferred" in "Always start the preferred kernel" is not documented|https://github.com/jupyterlab/jupyterlab/issues/16340|
 |jupyterlab/jupyterlab|16320|Rewrite "pending input" popup to be clearer|https://github.com/jupyterlab/jupyterlab/issues/16320|
@@ -95,7 +96,6 @@
 |jupyterlab/jupyterlab|14964|Add a screenshot with shell areas overview|https://github.com/jupyterlab/jupyterlab/pull/14964|
 |jupyterlab/jupyterlab|14826|Document process of adding new commands to the command palette |https://github.com/jupyterlab/jupyterlab/issues/14826|
 |jupyterlab/jupyterlab|14730|How to add/insert a new cell with pre defined content to cellList in 4.0.2|https://github.com/jupyterlab/jupyterlab/issues/14730|
-|jupyterlab/jupyterlab|14679|Default "open" application when opening files inside Jupyterlab|https://github.com/jupyterlab/jupyterlab/issues/14679|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
