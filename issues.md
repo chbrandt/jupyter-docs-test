@@ -66,6 +66,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|16622|Standardize the button role and label for single, dismissal buttons in dialogs|https://github.com/jupyterlab/jupyterlab/pull/16622|
 |jupyterlab/jupyterlab|16616|Style guide for dialog boxes and notifications|https://github.com/jupyterlab/jupyterlab/issues/16616|
 |jupyterlab/jupyterlab|16586|Describe cell input/output collapsing in the notebook documentation|https://github.com/jupyterlab/jupyterlab/pull/16586|
 |jupyterlab/jupyterlab|16531|Enhance readability by adjusting sizes of the headings|https://github.com/jupyterlab/jupyterlab/pull/16531|
@@ -90,12 +91,11 @@
 |jupyterlab/jupyterlab|15729|Should we use the council members doc page in lieu of the maintainers list in lab readme|https://github.com/jupyterlab/jupyterlab/issues/15729|
 |jupyterlab/jupyterlab|15425|Should proxy environment variables be documented?|https://github.com/jupyterlab/jupyterlab/issues/15425|
 |jupyterlab/jupyterlab|15417|Add dedicated plugin system document|https://github.com/jupyterlab/jupyterlab/pull/15417|
+|jupyterlab/jupyterlab|15157|Add filtering notebook cells with tags|https://github.com/jupyterlab/jupyterlab/pull/15157|
 |jupyterlab/jupyterlab|15139|Mermaid Usage Instructions Missing|https://github.com/jupyterlab/jupyterlab/issues/15139|
 |jupyterlab/jupyterlab|15099|JupyterLab documentation wishlist|https://github.com/jupyterlab/jupyterlab/issues/15099|
 |jupyterlab/jupyterlab|14964|Add a screenshot with shell areas overview|https://github.com/jupyterlab/jupyterlab/pull/14964|
 |jupyterlab/jupyterlab|14826|Document process of adding new commands to the command palette |https://github.com/jupyterlab/jupyterlab/issues/14826|
-|jupyterlab/jupyterlab|14730|How to add/insert a new cell with pre defined content to cellList in 4.0.2|https://github.com/jupyterlab/jupyterlab/issues/14730|
-|jupyterlab/jupyterlab|14679|Default "open" application when opening files inside Jupyterlab|https://github.com/jupyterlab/jupyterlab/issues/14679|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
