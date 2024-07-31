@@ -24,6 +24,7 @@
 |jupyter/jupyter|109|Link to dev-install from Install section.|https://github.com/jupyter/jupyter/issues/109|
 |jupyter/jupyter|66|[Docs] list supported mimetype |https://github.com/jupyter/jupyter/issues/66|
 |jupyter/jupyter|51|Create a better way to manage subproject docs|https://github.com/jupyter/jupyter/issues/51|
+|jupyter/notebook|7428|Document Running Notebook over SSH Tunnel|https://github.com/jupyter/notebook/issues/7428|
 |jupyter/notebook|7149|Provide access to the documentation for older version|https://github.com/jupyter/notebook/issues/7149|
 |jupyter/notebook|7148|Installation guide (android, termux)|https://github.com/jupyter/notebook/issues/7148|
 |jupyter/notebook|7029|Add guidelines for setting up development environment using yarn and npm in CONTRIBUTING.md|https://github.com/jupyter/notebook/issues/7029|
