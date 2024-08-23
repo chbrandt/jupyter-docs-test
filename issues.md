@@ -25,6 +25,7 @@
 |jupyter/jupyter|66|[Docs] list supported mimetype |https://github.com/jupyter/jupyter/issues/66|
 |jupyter/jupyter|51|Create a better way to manage subproject docs|https://github.com/jupyter/jupyter/issues/51|
 |jupyter/notebook|7428|Document Running Notebook over SSH Tunnel|https://github.com/jupyter/notebook/issues/7428|
+|jupyter/notebook|7409|For some reason .so files aren't showing up in the Jupyter Notebook file browser|https://github.com/jupyter/notebook/issues/7409|
 |jupyter/notebook|7149|Provide access to the documentation for older version|https://github.com/jupyter/notebook/issues/7149|
 |jupyter/notebook|7148|Installation guide (android, termux)|https://github.com/jupyter/notebook/issues/7148|
 |jupyter/notebook|7029|Add guidelines for setting up development environment using yarn and npm in CONTRIBUTING.md|https://github.com/jupyter/notebook/issues/7029|
@@ -68,6 +69,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|16709|User-facing changelog for JupyterLab 4.3|https://github.com/jupyterlab/jupyterlab/pull/16709|
 |jupyterlab/jupyterlab|16660|Amend best practices for CSS variables definitions in light of performance lessons learned|https://github.com/jupyterlab/jupyterlab/issues/16660|
 |jupyterlab/jupyterlab|16622|Standardize the button role and label for single, dismissal buttons in dialogs|https://github.com/jupyterlab/jupyterlab/pull/16622|
 |jupyterlab/jupyterlab|16616|Style guide for dialog boxes and notifications|https://github.com/jupyterlab/jupyterlab/issues/16616|
@@ -97,7 +99,6 @@
 |jupyterlab/jupyterlab|14964|Add a screenshot with shell areas overview|https://github.com/jupyterlab/jupyterlab/pull/14964|
 |jupyterlab/jupyterlab|14826|Document process of adding new commands to the command palette |https://github.com/jupyterlab/jupyterlab/issues/14826|
 |jupyterlab/jupyterlab|14730|How to add/insert a new cell with pre defined content to cellList in 4.0.2|https://github.com/jupyterlab/jupyterlab/issues/14730|
-|jupyterlab/jupyterlab|14679|Default "open" application when opening files inside Jupyterlab|https://github.com/jupyterlab/jupyterlab/issues/14679|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
