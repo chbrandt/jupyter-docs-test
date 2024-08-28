@@ -46,7 +46,6 @@
 |jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
-|jupyterhub/jupyterhub|4880|FAQ: websocket problems|https://github.com/jupyterhub/jupyterhub/pull/4880|
 |jupyterhub/jupyterhub|4866|How to customise JupyterHub depending on group membership?|https://github.com/jupyterhub/jupyterhub/issues/4866|
 |jupyterhub/jupyterhub|4845|JupyterHub differs in `xsrf` behaviour from jupyter-server|https://github.com/jupyterhub/jupyterhub/issues/4845|
 |jupyterhub/jupyterhub|4673|Document / better support for separating user domains from the Hub domain|https://github.com/jupyterhub/jupyterhub/issues/4673|
