@@ -1,4 +1,5 @@
 "repo","number","title","url"
+"jupyter/jupyter","739","Update default install guidance","https://github.com/jupyter/jupyter/issues/739"
 "jupyter/jupyter","727","pip install on ubuntu doesn't.","https://github.com/jupyter/jupyter/issues/727"
 "jupyter/jupyter","704","""Jupyter kernels"" wiki page: table incompletely visible","https://github.com/jupyter/jupyter/issues/704"
 "jupyter/jupyter","699","New Documentation Working Group proposal","https://github.com/jupyter/jupyter/issues/699"
