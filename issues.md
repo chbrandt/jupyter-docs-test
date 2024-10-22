@@ -20,11 +20,8 @@
 |jupyter/jupyter|216|Review top-level docs for prospective kernel authors|https://github.com/jupyter/jupyter/issues/216|
 |jupyter/jupyter|190|Citing Jupyter|https://github.com/jupyter/jupyter/issues/190|
 |jupyter/jupyter|159|[docs/theme] Pay attention to the "width" of screenshot.|https://github.com/jupyter/jupyter/issues/159|
-|jupyter/jupyter|137|Too many documentation kill the documentation ?|https://github.com/jupyter/jupyter/issues/137|
-|jupyter/jupyter|128|Create a developer guide - action item from dev mtg|https://github.com/jupyter/jupyter/issues/128|
 |jupyter/jupyter|109|Link to dev-install from Install section.|https://github.com/jupyter/jupyter/issues/109|
 |jupyter/jupyter|66|[Docs] list supported mimetype |https://github.com/jupyter/jupyter/issues/66|
-|jupyter/jupyter|51|Create a better way to manage subproject docs|https://github.com/jupyter/jupyter/issues/51|
 |jupyter/notebook|7428|Document Running Notebook over SSH Tunnel|https://github.com/jupyter/notebook/issues/7428|
 |jupyter/notebook|7409|For some reason .so files aren't showing up in the Jupyter Notebook file browser|https://github.com/jupyter/notebook/issues/7409|
 |jupyter/notebook|7149|Provide access to the documentation for older version|https://github.com/jupyter/notebook/issues/7149|
