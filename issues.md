@@ -67,8 +67,8 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|16938|Backport PR #16863 on branch 4.3.x (Fix triggering completer on the beginning of the lines)|https://github.com/jupyterlab/jupyterlab/pull/16938|
 |jupyterlab/jupyterlab|16887|Reference API documentation no longer shows up in search results in docs|https://github.com/jupyterlab/jupyterlab/issues/16887|
-|jupyterlab/jupyterlab|16863|Code completer triggers if a character is not already present in the line.|https://github.com/jupyterlab/jupyterlab/pull/16863|
 |jupyterlab/jupyterlab|16826|Command label ignored when adding extension to notebook toolbar|https://github.com/jupyterlab/jupyterlab/issues/16826|
 |jupyterlab/jupyterlab|16794|Allow customizing the `ServiceManager` with plugins|https://github.com/jupyterlab/jupyterlab/pull/16794|
 |jupyterlab/jupyterlab|16789|JupyterLab's UI is easy to break using CSS |https://github.com/jupyterlab/jupyterlab/issues/16789|
