@@ -22,6 +22,7 @@
 |jupyter/jupyter|159|[docs/theme] Pay attention to the "width" of screenshot.|https://github.com/jupyter/jupyter/issues/159|
 |jupyter/jupyter|109|Link to dev-install from Install section.|https://github.com/jupyter/jupyter/issues/109|
 |jupyter/jupyter|66|[Docs] list supported mimetype |https://github.com/jupyter/jupyter/issues/66|
+|jupyter/notebook|7539|Update chat links to Zulip.|https://github.com/jupyter/notebook/pull/7539|
 |jupyter/notebook|7428|Document Running Notebook over SSH Tunnel|https://github.com/jupyter/notebook/issues/7428|
 |jupyter/notebook|7409|For some reason .so files aren't showing up in the Jupyter Notebook file browser|https://github.com/jupyter/notebook/issues/7409|
 |jupyter/notebook|7149|Provide access to the documentation for older version|https://github.com/jupyter/notebook/issues/7149|
@@ -67,8 +68,6 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|17078|Copy edits in CONTRIBUTING.md|https://github.com/jupyterlab/jupyterlab/pull/17078|
-|jupyterlab/jupyterlab|17070|update to typedoc 0.27.4|https://github.com/jupyterlab/jupyterlab/pull/17070|
 |jupyterlab/jupyterlab|17031|Use Zulip for instant messaging|https://github.com/jupyterlab/jupyterlab/pull/17031|
 |jupyterlab/jupyterlab|16887|Reference API documentation no longer shows up in search results in docs|https://github.com/jupyterlab/jupyterlab/issues/16887|
 |jupyterlab/jupyterlab|16826|Command label ignored when adding extension to notebook toolbar|https://github.com/jupyterlab/jupyterlab/issues/16826|
@@ -92,11 +91,13 @@
 |jupyterlab/jupyterlab|15866|Extra non-critical revisions for the dual compatibility document|https://github.com/jupyterlab/jupyterlab/pull/15866|
 |jupyterlab/jupyterlab|15819|File browser checkboxes not keyboard accessible|https://github.com/jupyterlab/jupyterlab/issues/15819|
 |jupyterlab/jupyterlab|15749|Improve documentation for `jupyter.lab.transform`|https://github.com/jupyterlab/jupyterlab/issues/15749|
-|jupyterlab/jupyterlab|15733|bump to mermaid 11.x|https://github.com/jupyterlab/jupyterlab/pull/15733|
+|jupyterlab/jupyterlab|15733|upgrade to mermaid 11.x, marked 15.x|https://github.com/jupyterlab/jupyterlab/pull/15733|
 |jupyterlab/jupyterlab|15729|Should we use the council members doc page in lieu of the maintainers list in lab readme|https://github.com/jupyterlab/jupyterlab/issues/15729|
 |jupyterlab/jupyterlab|15425|Should proxy environment variables be documented?|https://github.com/jupyterlab/jupyterlab/issues/15425|
 |jupyterlab/jupyterlab|15417|Add dedicated plugin system document|https://github.com/jupyterlab/jupyterlab/pull/15417|
 |jupyterlab/jupyterlab|15157|Add filtering notebook cells with tags|https://github.com/jupyterlab/jupyterlab/pull/15157|
+|jupyterlab/jupyterlab|15139|Mermaid Usage Instructions Missing|https://github.com/jupyterlab/jupyterlab/issues/15139|
+|jupyterlab/jupyterlab|15099|JupyterLab documentation wishlist|https://github.com/jupyterlab/jupyterlab/issues/15099|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
