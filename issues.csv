@@ -1,4 +1,5 @@
 "repo","number","title","url"
+"jupyter/jupyter","751","In stable docs, search icon (magnifying glass) in top nav doesn't display","https://github.com/jupyter/jupyter/issues/751"
 "jupyter/jupyter","739","Update default install guidance","https://github.com/jupyter/jupyter/issues/739"
 "jupyter/jupyter","727","pip install on ubuntu doesn't.","https://github.com/jupyter/jupyter/issues/727"
 "jupyter/jupyter","704","""Jupyter kernels"" wiki page: table incompletely visible","https://github.com/jupyter/jupyter/issues/704"
@@ -43,7 +44,6 @@
 "jupyter/notebook","811","Internal links / references to outputs","https://github.com/jupyter/notebook/issues/811"
 "jupyter/notebook","788","Add a doc page for tips on using Spark","https://github.com/jupyter/notebook/issues/788"
 "jupyter/notebook","660","Update public server document with troubleshooting and additional resources","https://github.com/jupyter/notebook/issues/660"
-"jupyterhub/jupyterhub","4978","Missing breaking change in 5.0.0 changelog: URL tokens","https://github.com/jupyterhub/jupyterhub/pull/4978"
 "jupyterhub/jupyterhub","4866","How to customise JupyterHub depending on group membership?","https://github.com/jupyterhub/jupyterhub/issues/4866"
 "jupyterhub/jupyterhub","4845","JupyterHub differs in `xsrf` behaviour from jupyter-server","https://github.com/jupyterhub/jupyterhub/issues/4845"
 "jupyterhub/jupyterhub","4673","Document / better support for separating user domains from the Hub domain","https://github.com/jupyterhub/jupyterhub/issues/4673"
