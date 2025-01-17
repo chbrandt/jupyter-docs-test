@@ -67,7 +67,7 @@
 "jupyterhub/jupyterhub","2134","Docs: Unclear / confusing DB upgrade instructions","https://github.com/jupyterhub/jupyterhub/issues/2134"
 "jupyterhub/jupyterhub","2049","Docs: Missing a chapter on monitoring / observability","https://github.com/jupyterhub/jupyterhub/issues/2049"
 "jupyterhub/jupyterhub","1310","Customize DockerHub documentation for JupyterHub","https://github.com/jupyterhub/jupyterhub/issues/1310"
-"jupyterlab/jupyterlab","17169","Attributes sanitization","https://github.com/jupyterlab/jupyterlab/pull/17169"
+"jupyterlab/jupyterlab","17178","Document named attributes sanitization-2","https://github.com/jupyterlab/jupyterlab/pull/17178"
 "jupyterlab/jupyterlab","17161","Improved the Discoverability of certain topics highly relevant to extension development: , Moved privacy policies to get Started","https://github.com/jupyterlab/jupyterlab/pull/17161"
 "jupyterlab/jupyterlab","17157"," banner ""Your extensions may break with new releases of JupyterLab"" position changed","https://github.com/jupyterlab/jupyterlab/pull/17157"
 "jupyterlab/jupyterlab","17152","update FAQ","https://github.com/jupyterlab/jupyterlab/pull/17152"
