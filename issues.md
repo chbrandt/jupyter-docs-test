@@ -68,6 +68,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|17174|Clarify documentation on bot privileges for updating snapshots|https://github.com/jupyterlab/jupyterlab/issues/17174|
 |jupyterlab/jupyterlab|17161|Improved the Discoverability of certain topics highly relevant to extension development: , Moved privacy policies to get Started, extensions warning position changed|https://github.com/jupyterlab/jupyterlab/pull/17161|
 |jupyterlab/jupyterlab|17152|update FAQ|https://github.com/jupyterlab/jupyterlab/pull/17152|
 |jupyterlab/jupyterlab|17084|"Export settings" feature is not mentioned in the documentation|https://github.com/jupyterlab/jupyterlab/issues/17084|
@@ -97,7 +98,6 @@
 |jupyterlab/jupyterlab|15425|Should proxy environment variables be documented?|https://github.com/jupyterlab/jupyterlab/issues/15425|
 |jupyterlab/jupyterlab|15417|Add dedicated plugin system document|https://github.com/jupyterlab/jupyterlab/pull/15417|
 |jupyterlab/jupyterlab|15157|Add filtering notebook cells with tags|https://github.com/jupyterlab/jupyterlab/pull/15157|
-|jupyterlab/jupyterlab|15139|Mermaid Usage Instructions Missing|https://github.com/jupyterlab/jupyterlab/issues/15139|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
