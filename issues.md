@@ -70,8 +70,9 @@
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
 |jupyterlab/jupyterlab|17260|User facing changelog for JupyterLab 4.4|https://github.com/jupyterlab/jupyterlab/issues/17260|
+|jupyterlab/jupyterlab|17255|Update to TypeScript 5.4|https://github.com/jupyterlab/jupyterlab/pull/17255|
 |jupyterlab/jupyterlab|17246|try to build a real wheel in RTD|https://github.com/jupyterlab/jupyterlab/pull/17246|
-|jupyterlab/jupyterlab|17207|Update to TypeScript 5.2|https://github.com/jupyterlab/jupyterlab/pull/17207|
+|jupyterlab/jupyterlab|17244|Allow GroupItem to Filter Out Null Children and Accept Any ReactNode|https://github.com/jupyterlab/jupyterlab/pull/17244|
 |jupyterlab/jupyterlab|17174|Clarify documentation on bot privileges for updating snapshots|https://github.com/jupyterlab/jupyterlab/issues/17174|
 |jupyterlab/jupyterlab|17161|Improved the Discoverability of certain topics highly relevant to extension development: , Moved privacy policies to get Started, extensions warning position changed|https://github.com/jupyterlab/jupyterlab/pull/17161|
 |jupyterlab/jupyterlab|17152|update FAQ|https://github.com/jupyterlab/jupyterlab/pull/17152|
@@ -98,7 +99,6 @@
 |jupyterlab/jupyterlab|15819|File browser checkboxes not keyboard accessible|https://github.com/jupyterlab/jupyterlab/issues/15819|
 |jupyterlab/jupyterlab|15749|Improve documentation for `jupyter.lab.transform`|https://github.com/jupyterlab/jupyterlab/issues/15749|
 |jupyterlab/jupyterlab|15729|Should we use the council members doc page in lieu of the maintainers list in lab readme|https://github.com/jupyterlab/jupyterlab/issues/15729|
-|jupyterlab/jupyterlab|15425|Should proxy environment variables be documented?|https://github.com/jupyterlab/jupyterlab/issues/15425|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
