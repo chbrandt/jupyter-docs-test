@@ -67,7 +67,7 @@
 "jupyterhub/jupyterhub","2134","Docs: Unclear / confusing DB upgrade instructions","https://github.com/jupyterhub/jupyterhub/issues/2134"
 "jupyterhub/jupyterhub","2049","Docs: Missing a chapter on monitoring / observability","https://github.com/jupyterhub/jupyterhub/issues/2049"
 "jupyterhub/jupyterhub","1310","Customize DockerHub documentation for JupyterHub","https://github.com/jupyterhub/jupyterhub/issues/1310"
-"jupyterlab/jupyterlab","17332","Fix heading levels in extension migration guide","https://github.com/jupyterlab/jupyterlab/pull/17332"
+"jupyterlab/jupyterlab","17336","Clarify documentation on bot privileges for updating snapshots","https://github.com/jupyterlab/jupyterlab/pull/17336"
 "jupyterlab/jupyterlab","17273","Update to TypeScript 5.6","https://github.com/jupyterlab/jupyterlab/pull/17273"
 "jupyterlab/jupyterlab","17260","User facing changelog for JupyterLab 4.4","https://github.com/jupyterlab/jupyterlab/issues/17260"
 "jupyterlab/jupyterlab","17246","try to build a real wheel in RTD","https://github.com/jupyterlab/jupyterlab/pull/17246"
