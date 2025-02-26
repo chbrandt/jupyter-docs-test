@@ -70,6 +70,7 @@
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
 |jupyterlab/jupyterlab|17338|Add test to enforce plugin name convention|https://github.com/jupyterlab/jupyterlab/pull/17338|
 |jupyterlab/jupyterlab|17336|Clarify documentation on bot privileges for updating snapshots|https://github.com/jupyterlab/jupyterlab/pull/17336|
+|jupyterlab/jupyterlab|17311|Document workspace selector widget and TopBar extension point|https://github.com/jupyterlab/jupyterlab/issues/17311|
 |jupyterlab/jupyterlab|17273|Update to TypeScript 5.6|https://github.com/jupyterlab/jupyterlab/pull/17273|
 |jupyterlab/jupyterlab|17260|User facing changelog for JupyterLab 4.4|https://github.com/jupyterlab/jupyterlab/issues/17260|
 |jupyterlab/jupyterlab|17246|try to build a real wheel in RTD|https://github.com/jupyterlab/jupyterlab/pull/17246|
@@ -97,7 +98,6 @@
 |jupyterlab/jupyterlab|15866|Extra non-critical revisions for the dual compatibility document|https://github.com/jupyterlab/jupyterlab/pull/15866|
 |jupyterlab/jupyterlab|15819|File browser checkboxes not keyboard accessible|https://github.com/jupyterlab/jupyterlab/issues/15819|
 |jupyterlab/jupyterlab|15749|Improve documentation for `jupyter.lab.transform`|https://github.com/jupyterlab/jupyterlab/issues/15749|
-|jupyterlab/jupyterlab|15729|Should we use the council members doc page in lieu of the maintainers list in lab readme|https://github.com/jupyterlab/jupyterlab/issues/15729|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
