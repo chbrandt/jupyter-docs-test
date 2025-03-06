@@ -67,7 +67,7 @@
 "jupyterhub/jupyterhub","2134","Docs: Unclear / confusing DB upgrade instructions","https://github.com/jupyterhub/jupyterhub/issues/2134"
 "jupyterhub/jupyterhub","2049","Docs: Missing a chapter on monitoring / observability","https://github.com/jupyterhub/jupyterhub/issues/2049"
 "jupyterhub/jupyterhub","1310","Customize DockerHub documentation for JupyterHub","https://github.com/jupyterhub/jupyterhub/issues/1310"
-"jupyterlab/jupyterlab","17364","Sort the list of plugins and tokens in the documentation","https://github.com/jupyterlab/jupyterlab/pull/17364"
+"jupyterlab/jupyterlab","17368","First draft of user-facing changelog for 4.4","https://github.com/jupyterlab/jupyterlab/pull/17368"
 "jupyterlab/jupyterlab","17361","Move the licenses plugin to `apputils-extension`","https://github.com/jupyterlab/jupyterlab/pull/17361"
 "jupyterlab/jupyterlab","17354","Update 4.1.x branch to pass CI checks","https://github.com/jupyterlab/jupyterlab/pull/17354"
 "jupyterlab/jupyterlab","17345","Expose `ConfigSectionManager` via a plugin","https://github.com/jupyterlab/jupyterlab/pull/17345"
