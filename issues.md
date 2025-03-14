@@ -68,12 +68,9 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|17368|User-facing changelog for 4.4|https://github.com/jupyterlab/jupyterlab/pull/17368|
-|jupyterlab/jupyterlab|17361|Move the licenses plugin to `apputils-extension`|https://github.com/jupyterlab/jupyterlab/pull/17361|
 |jupyterlab/jupyterlab|17354|Update 4.1.x branch to pass CI checks|https://github.com/jupyterlab/jupyterlab/pull/17354|
 |jupyterlab/jupyterlab|17311|Document workspace selector widget and TopBar extension point|https://github.com/jupyterlab/jupyterlab/issues/17311|
 |jupyterlab/jupyterlab|17273|Update to TypeScript 5.6|https://github.com/jupyterlab/jupyterlab/pull/17273|
-|jupyterlab/jupyterlab|17260|User facing changelog for JupyterLab 4.4|https://github.com/jupyterlab/jupyterlab/issues/17260|
 |jupyterlab/jupyterlab|17246|try to build a real wheel in RTD|https://github.com/jupyterlab/jupyterlab/pull/17246|
 |jupyterlab/jupyterlab|17161|Improved the Discoverability of certain topics highly relevant to extension development: , Moved privacy policies to get Started, extensions warning position changed|https://github.com/jupyterlab/jupyterlab/pull/17161|
 |jupyterlab/jupyterlab|16887|Reference API documentation no longer shows up in search results in docs|https://github.com/jupyterlab/jupyterlab/issues/16887|
@@ -98,6 +95,9 @@
 |jupyterlab/jupyterlab|15866|Extra non-critical revisions for the dual compatibility document|https://github.com/jupyterlab/jupyterlab/pull/15866|
 |jupyterlab/jupyterlab|15819|File browser checkboxes not keyboard accessible|https://github.com/jupyterlab/jupyterlab/issues/15819|
 |jupyterlab/jupyterlab|15749|Improve documentation for `jupyter.lab.transform`|https://github.com/jupyterlab/jupyterlab/issues/15749|
+|jupyterlab/jupyterlab|15729|Should we use the council members doc page in lieu of the maintainers list in lab readme|https://github.com/jupyterlab/jupyterlab/issues/15729|
+|jupyterlab/jupyterlab|15425|Should proxy environment variables be documented?|https://github.com/jupyterlab/jupyterlab/issues/15425|
+|jupyterlab/jupyterlab|15417|Add dedicated plugin system document|https://github.com/jupyterlab/jupyterlab/pull/15417|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
