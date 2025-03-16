@@ -23,6 +23,7 @@
 |jupyter/jupyter|159|[docs/theme] Pay attention to the "width" of screenshot.|https://github.com/jupyter/jupyter/issues/159|
 |jupyter/jupyter|109|Link to dev-install from Install section.|https://github.com/jupyter/jupyter/issues/109|
 |jupyter/jupyter|66|[Docs] list supported mimetype |https://github.com/jupyter/jupyter/issues/66|
+|jupyter/notebook|7612|User facing changelog for 7.4|https://github.com/jupyter/notebook/pull/7612|
 |jupyter/notebook|7428|Document Running Notebook over SSH Tunnel|https://github.com/jupyter/notebook/issues/7428|
 |jupyter/notebook|7409|For some reason .so files aren't showing up in the Jupyter Notebook file browser|https://github.com/jupyter/notebook/issues/7409|
 |jupyter/notebook|7149|Provide access to the documentation for older version|https://github.com/jupyter/notebook/issues/7149|
