@@ -69,7 +69,7 @@
 "jupyterhub/jupyterhub","2049","Docs: Missing a chapter on monitoring / observability","https://github.com/jupyterhub/jupyterhub/issues/2049"
 "jupyterhub/jupyterhub","1310","Customize DockerHub documentation for JupyterHub","https://github.com/jupyterhub/jupyterhub/issues/1310"
 "jupyterlab/jupyterlab","17482","Add an optional `export` method to `NbConvert.IManager`","https://github.com/jupyterlab/jupyterlab/pull/17482"
-"jupyterlab/jupyterlab","17476","[ENH] Reorder extra_labextensions_path to favor defaults","https://github.com/jupyterlab/jupyterlab/pull/17476"
+"jupyterlab/jupyterlab","17476","Reorder `extra_labextensions_path` to favor defaults","https://github.com/jupyterlab/jupyterlab/pull/17476"
 "jupyterlab/jupyterlab","17446","Document the use of subshells","https://github.com/jupyterlab/jupyterlab/issues/17446"
 "jupyterlab/jupyterlab","17420","Add instructions on developing JupyterLab extension packages stored in JupyterLab monorepo to docs Contribute section","https://github.com/jupyterlab/jupyterlab/issues/17420"
 "jupyterlab/jupyterlab","17388","No documentation for installing code editor highlighting themes","https://github.com/jupyterlab/jupyterlab/issues/17388"
