@@ -72,6 +72,7 @@
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
 |jupyterlab/jupyterlab|17639|Fix link to zulip and icon in docs|https://github.com/jupyterlab/jupyterlab/pull/17639|
+|jupyterlab/jupyterlab|17636|Add `audio-extension` and `video-extension`|https://github.com/jupyterlab/jupyterlab/pull/17636|
 |jupyterlab/jupyterlab|17623|Documentation for Kernel Subshells |https://github.com/jupyterlab/jupyterlab/pull/17623|
 |jupyterlab/jupyterlab|17606|display dataFrame or series side By side|https://github.com/jupyterlab/jupyterlab/issues/17606|
 |jupyterlab/jupyterlab|17446|Document the use of subshells|https://github.com/jupyterlab/jupyterlab/issues/17446|
@@ -100,7 +101,6 @@
 |jupyterlab/jupyterlab|16020|Improve documentation for workspaces|https://github.com/jupyterlab/jupyterlab/issues/16020|
 |jupyterlab/jupyterlab|15955|Jupyterlab extension tutorial not written for novice|https://github.com/jupyterlab/jupyterlab/issues/15955|
 |jupyterlab/jupyterlab|15939|Document how to handle drives when creating new files|https://github.com/jupyterlab/jupyterlab/issues/15939|
-|jupyterlab/jupyterlab|15916|Use docker on CI to speed it up|https://github.com/jupyterlab/jupyterlab/pull/15916|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
