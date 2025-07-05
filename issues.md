@@ -47,6 +47,8 @@
 |jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
+|jupyterhub/jupyterhub|5097|Docs: fix broken linkcheck|https://github.com/jupyterhub/jupyterhub/pull/5097|
+|jupyterhub/jupyterhub|5096|Replace Gitter with Zulip in Documentation|https://github.com/jupyterhub/jupyterhub/pull/5096|
 |jupyterhub/jupyterhub|5081|The API docs are incomplete|https://github.com/jupyterhub/jupyterhub/issues/5081|
 |jupyterhub/jupyterhub|5077|Add examples of Public authorities among users of JupyterHub|https://github.com/jupyterhub/jupyterhub/pull/5077|
 |jupyterhub/jupyterhub|4866|How to customise JupyterHub depending on group membership?|https://github.com/jupyterhub/jupyterhub/issues/4866|
@@ -74,7 +76,6 @@
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
 |jupyterlab/jupyterlab|17649|Describe `args` for all commands|https://github.com/jupyterlab/jupyterlab/pull/17649|
 |jupyterlab/jupyterlab|17644|docs: add Mermaid diagram usage guide with example image|https://github.com/jupyterlab/jupyterlab/pull/17644|
-|jupyterlab/jupyterlab|17636|Add `audio-extension` and `video-extension`|https://github.com/jupyterlab/jupyterlab/pull/17636|
 |jupyterlab/jupyterlab|17623|Documentation for Kernel Subshells |https://github.com/jupyterlab/jupyterlab/pull/17623|
 |jupyterlab/jupyterlab|17606|display dataFrame or series side By side|https://github.com/jupyterlab/jupyterlab/issues/17606|
 |jupyterlab/jupyterlab|17446|Document the use of subshells|https://github.com/jupyterlab/jupyterlab/issues/17446|
@@ -102,6 +103,7 @@
 |jupyterlab/jupyterlab|16034|JupyterLab is crashing repeatedly and producing a 'SIGILL' error code when I try to run a large notebook on Chrome|https://github.com/jupyterlab/jupyterlab/issues/16034|
 |jupyterlab/jupyterlab|16020|Improve documentation for workspaces|https://github.com/jupyterlab/jupyterlab/issues/16020|
 |jupyterlab/jupyterlab|15955|Jupyterlab extension tutorial not written for novice|https://github.com/jupyterlab/jupyterlab/issues/15955|
+|jupyterlab/jupyterlab|15939|Document how to handle drives when creating new files|https://github.com/jupyterlab/jupyterlab/issues/15939|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
