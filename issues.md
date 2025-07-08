@@ -47,8 +47,7 @@
 |jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
-|jupyterhub/jupyterhub|5097|Docs: fix broken linkcheck|https://github.com/jupyterhub/jupyterhub/pull/5097|
-|jupyterhub/jupyterhub|5096|Replace Gitter with Zulip in Documentation|https://github.com/jupyterhub/jupyterhub/pull/5096|
+|jupyterhub/jupyterhub|5098|Broken links in documentation|https://github.com/jupyterhub/jupyterhub/issues/5098|
 |jupyterhub/jupyterhub|5081|The API docs are incomplete|https://github.com/jupyterhub/jupyterhub/issues/5081|
 |jupyterhub/jupyterhub|5077|Add examples of Public authorities among users of JupyterHub|https://github.com/jupyterhub/jupyterhub/pull/5077|
 |jupyterhub/jupyterhub|4866|How to customise JupyterHub depending on group membership?|https://github.com/jupyterhub/jupyterhub/issues/4866|
