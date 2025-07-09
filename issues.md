@@ -73,11 +73,11 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|17687|Backport PR #17623 on branch 4.4.x (Documentation for Kernel Subshells )|https://github.com/jupyterlab/jupyterlab/pull/17687|
+|jupyterlab/jupyterlab|17683|See also documentation reference is broken for kernel message types|https://github.com/jupyterlab/jupyterlab/issues/17683|
 |jupyterlab/jupyterlab|17649|Describe `args` for all commands|https://github.com/jupyterlab/jupyterlab/pull/17649|
 |jupyterlab/jupyterlab|17644|docs: add Mermaid diagram usage guide with example image|https://github.com/jupyterlab/jupyterlab/pull/17644|
-|jupyterlab/jupyterlab|17623|Documentation for Kernel Subshells |https://github.com/jupyterlab/jupyterlab/pull/17623|
 |jupyterlab/jupyterlab|17606|display dataFrame or series side By side|https://github.com/jupyterlab/jupyterlab/issues/17606|
-|jupyterlab/jupyterlab|17446|Document the use of subshells|https://github.com/jupyterlab/jupyterlab/issues/17446|
 |jupyterlab/jupyterlab|17420|Add instructions on developing JupyterLab extension packages stored in JupyterLab monorepo to docs Contribute section|https://github.com/jupyterlab/jupyterlab/issues/17420|
 |jupyterlab/jupyterlab|17388|No documentation for installing code editor highlighting themes|https://github.com/jupyterlab/jupyterlab/issues/17388|
 |jupyterlab/jupyterlab|17354|Update 4.1.x branch to pass CI checks|https://github.com/jupyterlab/jupyterlab/pull/17354|
