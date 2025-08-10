@@ -20,7 +20,7 @@
 |jupyter/jupyter|242|Document JSON config format|https://github.com/jupyter/jupyter/issues/242|
 |jupyter/jupyter|220|Glossary in docs|https://github.com/jupyter/jupyter/issues/220|
 |jupyter/jupyter|216|Review top-level docs for prospective kernel authors|https://github.com/jupyter/jupyter/issues/216|
-|jupyter/jupyter|190|Citing Jupyter|https://github.com/jupyter/jupyter/issues/190|
+|jupyter/jupyter|190|How to cite Jupyter and its subprojects|https://github.com/jupyter/jupyter/issues/190|
 |jupyter/jupyter|159|[docs/theme] Pay attention to the "width" of screenshot.|https://github.com/jupyter/jupyter/issues/159|
 |jupyter/jupyter|109|Link to dev-install from Install section.|https://github.com/jupyter/jupyter/issues/109|
 |jupyter/jupyter|66|[Docs] list supported mimetype |https://github.com/jupyter/jupyter/issues/66|
