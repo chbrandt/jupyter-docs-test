@@ -24,6 +24,7 @@
 |jupyter/jupyter|159|[docs/theme] Pay attention to the "width" of screenshot.|https://github.com/jupyter/jupyter/issues/159|
 |jupyter/jupyter|109|Link to dev-install from Install section.|https://github.com/jupyter/jupyter/issues/109|
 |jupyter/jupyter|66|[Docs] list supported mimetype |https://github.com/jupyter/jupyter/issues/66|
+|jupyter/notebook|7727|Add JupyterCon banner and add Jupyter colors|https://github.com/jupyter/notebook/pull/7727|
 |jupyter/notebook|7701|`Documentation Fix: Add clear instructions for local dev environment setup`|https://github.com/jupyter/notebook/issues/7701|
 |jupyter/notebook|7652|Improve grammar and consistency in CONTRIBUTING.md|https://github.com/jupyter/notebook/pull/7652|
 |jupyter/notebook|7428|Document Running Notebook over SSH Tunnel|https://github.com/jupyter/notebook/issues/7428|
@@ -73,7 +74,6 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|17906|Add JupyterCon banner and Jupyter colors|https://github.com/jupyterlab/jupyterlab/pull/17906|
 |jupyterlab/jupyterlab|17683|See also documentation reference is broken for kernel message types|https://github.com/jupyterlab/jupyterlab/issues/17683|
 |jupyterlab/jupyterlab|17644|docs: add Mermaid diagram usage guide with example image|https://github.com/jupyterlab/jupyterlab/pull/17644|
 |jupyterlab/jupyterlab|17606|display dataFrame or series side By side|https://github.com/jupyterlab/jupyterlab/issues/17606|
@@ -103,6 +103,7 @@
 |jupyterlab/jupyterlab|15916|Use docker on CI to speed it up|https://github.com/jupyterlab/jupyterlab/pull/15916|
 |jupyterlab/jupyterlab|15866|Extra non-critical revisions for the dual compatibility document|https://github.com/jupyterlab/jupyterlab/pull/15866|
 |jupyterlab/jupyterlab|15819|File browser checkboxes not keyboard accessible|https://github.com/jupyterlab/jupyterlab/issues/15819|
+|jupyterlab/jupyterlab|15729|Should we use the council members doc page in lieu of the maintainers list in lab readme|https://github.com/jupyterlab/jupyterlab/issues/15729|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
