@@ -48,6 +48,7 @@
 |jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
+|jupyterhub/jupyterhub|5165|[do not merge] remove jupytercon banner (after November 5)|https://github.com/jupyterhub/jupyterhub/pull/5165|
 |jupyterhub/jupyterhub|5081|The API docs are incomplete|https://github.com/jupyterhub/jupyterhub/issues/5081|
 |jupyterhub/jupyterhub|5077|Add examples of Public authorities among users of JupyterHub|https://github.com/jupyterhub/jupyterhub/pull/5077|
 |jupyterhub/jupyterhub|4866|How to customise JupyterHub depending on group membership?|https://github.com/jupyterhub/jupyterhub/issues/4866|
@@ -73,6 +74,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|17954|Fix parameter documentation issues in API reference|https://github.com/jupyterlab/jupyterlab/pull/17954|
 |jupyterlab/jupyterlab|17953|Add cross-references to API reference, fix missing packages in API|https://github.com/jupyterlab/jupyterlab/pull/17953|
 |jupyterlab/jupyterlab|17952|Systematise how base URL is obtained to allow swapping it more easily|https://github.com/jupyterlab/jupyterlab/pull/17952|
 |jupyterlab/jupyterlab|17683|See also documentation reference is broken for kernel message types|https://github.com/jupyterlab/jupyterlab/issues/17683|
@@ -102,7 +104,6 @@
 |jupyterlab/jupyterlab|15955|Jupyterlab extension tutorial not written for novice|https://github.com/jupyterlab/jupyterlab/issues/15955|
 |jupyterlab/jupyterlab|15939|Document how to handle drives when creating new files|https://github.com/jupyterlab/jupyterlab/issues/15939|
 |jupyterlab/jupyterlab|15916|Use docker on CI to speed it up|https://github.com/jupyterlab/jupyterlab/pull/15916|
-|jupyterlab/jupyterlab|15866|Extra non-critical revisions for the dual compatibility document|https://github.com/jupyterlab/jupyterlab/pull/15866|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
