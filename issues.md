@@ -73,8 +73,8 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|18044|Convert documentation to Markdown|https://github.com/jupyterlab/jupyterlab/pull/18044|
 |jupyterlab/jupyterlab|18041|Add plausible.io stats to the jupyterlab docs|https://github.com/jupyterlab/jupyterlab/pull/18041|
-|jupyterlab/jupyterlab|18040|Document how to disable the file uploads via the settings|https://github.com/jupyterlab/jupyterlab/pull/18040|
 |jupyterlab/jupyterlab|18010|Disabling rebuild check doesn't work|https://github.com/jupyterlab/jupyterlab/issues/18010|
 |jupyterlab/jupyterlab|17959|Improving documentation: typedoc on CI should treat warnings as errors|https://github.com/jupyterlab/jupyterlab/issues/17959|
 |jupyterlab/jupyterlab|17683|See also documentation reference is broken for kernel message types|https://github.com/jupyterlab/jupyterlab/issues/17683|
