@@ -73,6 +73,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|18059|Add plausible and logos to API docs|https://github.com/jupyterlab/jupyterlab/pull/18059|
 |jupyterlab/jupyterlab|18044|Convert documentation to Markdown|https://github.com/jupyterlab/jupyterlab/pull/18044|
 |jupyterlab/jupyterlab|18010|Disabling rebuild check doesn't work|https://github.com/jupyterlab/jupyterlab/issues/18010|
 |jupyterlab/jupyterlab|18001|Windows Terminal: behavior unusual, lack of documentation|https://github.com/jupyterlab/jupyterlab/issues/18001|
@@ -102,7 +103,6 @@
 |jupyterlab/jupyterlab|16034|JupyterLab is crashing repeatedly and producing a 'SIGILL' error code when I try to run a large notebook on Chrome|https://github.com/jupyterlab/jupyterlab/issues/16034|
 |jupyterlab/jupyterlab|16020|Improve documentation for workspaces|https://github.com/jupyterlab/jupyterlab/issues/16020|
 |jupyterlab/jupyterlab|15955|Jupyterlab extension tutorial not written for novice|https://github.com/jupyterlab/jupyterlab/issues/15955|
-|jupyterlab/jupyterlab|15939|Document how to handle drives when creating new files|https://github.com/jupyterlab/jupyterlab/issues/15939|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
