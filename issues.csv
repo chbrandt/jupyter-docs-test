@@ -47,7 +47,7 @@
 "jupyter/notebook","788","Add a doc page for tips on using Spark","https://github.com/jupyter/notebook/issues/788"
 "jupyter/notebook","660","Update public server document with troubleshooting and additional resources","https://github.com/jupyter/notebook/issues/660"
 "jupyterhub/jupyterhub","5197","Add noxfile.py","https://github.com/jupyterhub/jupyterhub/pull/5197"
-"jupyterhub/jupyterhub","5165","[do not merge] remove jupytercon banner (after November 5)","https://github.com/jupyterhub/jupyterhub/pull/5165"
+"jupyterhub/jupyterhub","5165","remove jupytercon banner","https://github.com/jupyterhub/jupyterhub/pull/5165"
 "jupyterhub/jupyterhub","5081","The API docs are incomplete","https://github.com/jupyterhub/jupyterhub/issues/5081"
 "jupyterhub/jupyterhub","5077","Add examples of Public authorities among users of JupyterHub","https://github.com/jupyterhub/jupyterhub/pull/5077"
 "jupyterhub/jupyterhub","4866","How to customise JupyterHub depending on group membership?","https://github.com/jupyterhub/jupyterhub/issues/4866"
