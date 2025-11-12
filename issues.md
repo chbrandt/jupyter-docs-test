@@ -47,7 +47,6 @@
 |jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
-|jupyterhub/jupyterhub|5197|Add noxfile.py|https://github.com/jupyterhub/jupyterhub/pull/5197|
 |jupyterhub/jupyterhub|5081|The API docs are incomplete|https://github.com/jupyterhub/jupyterhub/issues/5081|
 |jupyterhub/jupyterhub|5077|Add examples of Public authorities among users of JupyterHub|https://github.com/jupyterhub/jupyterhub/pull/5077|
 |jupyterhub/jupyterhub|4866|How to customise JupyterHub depending on group membership?|https://github.com/jupyterhub/jupyterhub/issues/4866|
@@ -76,7 +75,7 @@
 |jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
 |jupyterlab/jupyterlab|18094|Add plotting and visualization documentation|https://github.com/jupyterlab/jupyterlab/pull/18094|
 |jupyterlab/jupyterlab|18088|Fix broken docs header layout on mobile and medium screens|https://github.com/jupyterlab/jupyterlab/pull/18088|
-|jupyterlab/jupyterlab|18075|Update directories.rst|https://github.com/jupyterlab/jupyterlab/pull/18075|
+|jupyterlab/jupyterlab|18075|Update example for disabling `buildAvailable`|https://github.com/jupyterlab/jupyterlab/pull/18075|
 |jupyterlab/jupyterlab|18073|feat(completer): Add syntax highlighting for ghost text|https://github.com/jupyterlab/jupyterlab/pull/18073|
 |jupyterlab/jupyterlab|18044|Convert documentation to Markdown|https://github.com/jupyterlab/jupyterlab/pull/18044|
 |jupyterlab/jupyterlab|18010|Disabling rebuild check doesn't work|https://github.com/jupyterlab/jupyterlab/issues/18010|
