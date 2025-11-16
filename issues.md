@@ -37,7 +37,6 @@
 |jupyter/notebook|6680|Add a large deprecation notice to the front-end extensions documentation|https://github.com/jupyter/notebook/issues/6680|
 |jupyter/notebook|6659|Document .ipynb_checkpoints directory|https://github.com/jupyter/notebook/issues/6659|
 |jupyter/notebook|6644|Updates to the contributor.rst file and addition of CONFIGURATION.md file|https://github.com/jupyter/notebook/pull/6644|
-|jupyter/notebook|6486|feature request: add run buttons like ipynb extension for vscode|https://github.com/jupyter/notebook/issues/6486|
 |jupyter/notebook|4304|Running `jupyter notebook` opens visual studio code, not a browser|https://github.com/jupyter/notebook/issues/4304|
 |jupyter/notebook|4178|Buttons don't show up properly in Sphinx docs|https://github.com/jupyter/notebook/issues/4178|
 |jupyter/notebook|3550|Add faq entry about installing on python without sqlite extensions|https://github.com/jupyter/notebook/issues/3550|
