@@ -71,6 +71,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|18129|Linter: enforce "import type" when applicable|https://github.com/jupyterlab/jupyterlab/pull/18129|
 |jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
 |jupyterlab/jupyterlab|18094|Add plotting and visualization documentation|https://github.com/jupyterlab/jupyterlab/pull/18094|
 |jupyterlab/jupyterlab|18088|Fix broken docs header layout on mobile and medium screens|https://github.com/jupyterlab/jupyterlab/pull/18088|
@@ -100,7 +101,6 @@
 |jupyterlab/jupyterlab|16179|Document the option to collapse cells while displaying the first line|https://github.com/jupyterlab/jupyterlab/issues/16179|
 |jupyterlab/jupyterlab|16177|Add list of icons to documentation, together with import strings to copy|https://github.com/jupyterlab/jupyterlab/issues/16177|
 |jupyterlab/jupyterlab|16034|JupyterLab is crashing repeatedly and producing a 'SIGILL' error code when I try to run a large notebook on Chrome|https://github.com/jupyterlab/jupyterlab/issues/16034|
-|jupyterlab/jupyterlab|16020|Improve documentation for workspaces|https://github.com/jupyterlab/jupyterlab/issues/16020|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
