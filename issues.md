@@ -24,6 +24,7 @@
 |jupyter/jupyter|159|[docs/theme] Pay attention to the "width" of screenshot.|https://github.com/jupyter/jupyter/issues/159|
 |jupyter/jupyter|109|Link to dev-install from Install section.|https://github.com/jupyter/jupyter/issues/109|
 |jupyter/jupyter|66|[Docs] list supported mimetype |https://github.com/jupyter/jupyter/issues/66|
+|jupyter/notebook|7777|How to set up CDN acceleration for static files across multiple extensions？|https://github.com/jupyter/notebook/issues/7777|
 |jupyter/notebook|7701|`Documentation Fix: Add clear instructions for local dev environment setup`|https://github.com/jupyter/notebook/issues/7701|
 |jupyter/notebook|7428|Document Running Notebook over SSH Tunnel|https://github.com/jupyter/notebook/issues/7428|
 |jupyter/notebook|7409|For some reason .so files aren't showing up in the Jupyter Notebook file browser|https://github.com/jupyter/notebook/issues/7409|
@@ -71,7 +72,9 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|18135|Jupyter Book for the documentation|https://github.com/jupyterlab/jupyterlab/issues/18135|
 |jupyterlab/jupyterlab|18129|Linter: enforce "import type" when applicable|https://github.com/jupyterlab/jupyterlab/pull/18129|
+|jupyterlab/jupyterlab|18117|JupyterLab Interface Becomes Unresponsive During Multi-Process CPU-Intensive Operations in Terminal/Notebook|https://github.com/jupyterlab/jupyterlab/issues/18117|
 |jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
 |jupyterlab/jupyterlab|18094|Add plotting and visualization documentation|https://github.com/jupyterlab/jupyterlab/pull/18094|
 |jupyterlab/jupyterlab|18088|Fix broken docs header layout on mobile and medium screens|https://github.com/jupyterlab/jupyterlab/pull/18088|
@@ -99,8 +102,6 @@
 |jupyterlab/jupyterlab|16282|Document JPY_SESSION_NAME environment variable, which contains current notebook's file path|https://github.com/jupyterlab/jupyterlab/issues/16282|
 |jupyterlab/jupyterlab|16227|Example of standalone app with ipywidgets support|https://github.com/jupyterlab/jupyterlab/issues/16227|
 |jupyterlab/jupyterlab|16179|Document the option to collapse cells while displaying the first line|https://github.com/jupyterlab/jupyterlab/issues/16179|
-|jupyterlab/jupyterlab|16177|Add list of icons to documentation, together with import strings to copy|https://github.com/jupyterlab/jupyterlab/issues/16177|
-|jupyterlab/jupyterlab|16034|JupyterLab is crashing repeatedly and producing a 'SIGILL' error code when I try to run a large notebook on Chrome|https://github.com/jupyterlab/jupyterlab/issues/16034|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
