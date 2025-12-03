@@ -47,6 +47,7 @@
 |jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
+|jupyterhub/jupyterhub|5226|add note about roadmap workshop to roadmap page|https://github.com/jupyterhub/jupyterhub/pull/5226|
 |jupyterhub/jupyterhub|5081|The API docs are incomplete|https://github.com/jupyterhub/jupyterhub/issues/5081|
 |jupyterhub/jupyterhub|5077|Add examples of Public authorities among users of JupyterHub|https://github.com/jupyterhub/jupyterhub/pull/5077|
 |jupyterhub/jupyterhub|4866|How to customise JupyterHub depending on group membership?|https://github.com/jupyterhub/jupyterhub/issues/4866|
@@ -72,15 +73,14 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|18161|Reconfigure CI for the 4.5.x branch|https://github.com/jupyterlab/jupyterlab/pull/18161|
 |jupyterlab/jupyterlab|18135|Jupyter Book for the documentation|https://github.com/jupyterlab/jupyterlab/issues/18135|
 |jupyterlab/jupyterlab|18129|Linter: enforce "import type" when applicable|https://github.com/jupyterlab/jupyterlab/pull/18129|
 |jupyterlab/jupyterlab|18117|JupyterLab Interface Becomes Unresponsive During Multi-Process CPU-Intensive Operations in Terminal/Notebook|https://github.com/jupyterlab/jupyterlab/issues/18117|
 |jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
 |jupyterlab/jupyterlab|18088|Fix broken docs header layout on mobile and medium screens|https://github.com/jupyterlab/jupyterlab/pull/18088|
-|jupyterlab/jupyterlab|18073|feat(completer): Add syntax highlighting for ghost text|https://github.com/jupyterlab/jupyterlab/pull/18073|
 |jupyterlab/jupyterlab|18001|Windows Terminal: behavior unusual, lack of documentation|https://github.com/jupyterlab/jupyterlab/issues/18001|
 |jupyterlab/jupyterlab|17959|Improving documentation: typedoc on CI should treat warnings as errors|https://github.com/jupyterlab/jupyterlab/issues/17959|
+|jupyterlab/jupyterlab|17838|Update to `ruff==0.14.7` and other pre-commit updates|https://github.com/jupyterlab/jupyterlab/pull/17838|
 |jupyterlab/jupyterlab|17683|See also documentation reference is broken for kernel message types|https://github.com/jupyterlab/jupyterlab/issues/17683|
 |jupyterlab/jupyterlab|17644|docs: add Mermaid diagram usage guide with example image|https://github.com/jupyterlab/jupyterlab/pull/17644|
 |jupyterlab/jupyterlab|17606|display dataFrame or series side By side|https://github.com/jupyterlab/jupyterlab/issues/17606|
@@ -102,6 +102,7 @@
 |jupyterlab/jupyterlab|16282|Document JPY_SESSION_NAME environment variable, which contains current notebook's file path|https://github.com/jupyterlab/jupyterlab/issues/16282|
 |jupyterlab/jupyterlab|16227|Example of standalone app with ipywidgets support|https://github.com/jupyterlab/jupyterlab/issues/16227|
 |jupyterlab/jupyterlab|16179|Document the option to collapse cells while displaying the first line|https://github.com/jupyterlab/jupyterlab/issues/16179|
+|jupyterlab/jupyterlab|16177|Add list of icons to documentation, together with import strings to copy|https://github.com/jupyterlab/jupyterlab/issues/16177|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
