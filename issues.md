@@ -72,6 +72,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|18222|Docs: clarify edit mode vs command mode in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18222|
 |jupyterlab/jupyterlab|18135|Jupyter Book for the documentation|https://github.com/jupyterlab/jupyterlab/issues/18135|
 |jupyterlab/jupyterlab|18129|Linter: enforce "import type" when applicable|https://github.com/jupyterlab/jupyterlab/pull/18129|
 |jupyterlab/jupyterlab|18117|JupyterLab Interface Becomes Unresponsive During Multi-Process CPU-Intensive Operations in Terminal/Notebook|https://github.com/jupyterlab/jupyterlab/issues/18117|
@@ -101,7 +102,6 @@
 |jupyterlab/jupyterlab|16282|Document JPY_SESSION_NAME environment variable, which contains current notebook's file path|https://github.com/jupyterlab/jupyterlab/issues/16282|
 |jupyterlab/jupyterlab|16227|Example of standalone app with ipywidgets support|https://github.com/jupyterlab/jupyterlab/issues/16227|
 |jupyterlab/jupyterlab|16179|Document the option to collapse cells while displaying the first line|https://github.com/jupyterlab/jupyterlab/issues/16179|
-|jupyterlab/jupyterlab|16177|Add list of icons to documentation, together with import strings to copy|https://github.com/jupyterlab/jupyterlab/issues/16177|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
