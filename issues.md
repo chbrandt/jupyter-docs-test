@@ -72,6 +72,36 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|18260|Docs: clarify CodeEditor text updates via sharedModel in JupyterLab 4|https://github.com/jupyterlab/jupyterlab/pull/18260|
+|jupyterlab/jupyterlab|18259|Document proxy environment variables for extension manager|https://github.com/jupyterlab/jupyterlab/pull/18259|
+|jupyterlab/jupyterlab|18242|Document runtime dependencies and security considerations|https://github.com/jupyterlab/jupyterlab/pull/18242|
+|jupyterlab/jupyterlab|18230|Add annotated screenshot showing JupyterLab shell areas|https://github.com/jupyterlab/jupyterlab/pull/18230|
+|jupyterlab/jupyterlab|18135|Jupyter Book for the documentation|https://github.com/jupyterlab/jupyterlab/issues/18135|
+|jupyterlab/jupyterlab|18129|Linter: enforce "import type" when applicable|https://github.com/jupyterlab/jupyterlab/pull/18129|
+|jupyterlab/jupyterlab|18117|JupyterLab Interface Becomes Unresponsive During Multi-Process CPU-Intensive Operations in Terminal/Notebook|https://github.com/jupyterlab/jupyterlab/issues/18117|
+|jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
+|jupyterlab/jupyterlab|18088|Fix broken docs header layout on mobile and medium screens|https://github.com/jupyterlab/jupyterlab/pull/18088|
+|jupyterlab/jupyterlab|18001|Windows Terminal: behavior unusual, lack of documentation|https://github.com/jupyterlab/jupyterlab/issues/18001|
+|jupyterlab/jupyterlab|17959|Improving documentation: typedoc on CI should treat warnings as errors|https://github.com/jupyterlab/jupyterlab/issues/17959|
+|jupyterlab/jupyterlab|17838|Update to `ruff==0.14.7` and other pre-commit updates|https://github.com/jupyterlab/jupyterlab/pull/17838|
+|jupyterlab/jupyterlab|17644|docs: add Mermaid diagram usage guide with example image|https://github.com/jupyterlab/jupyterlab/pull/17644|
+|jupyterlab/jupyterlab|17606|display dataFrame or series side By side|https://github.com/jupyterlab/jupyterlab/issues/17606|
+|jupyterlab/jupyterlab|17420|Add instructions on developing JupyterLab extension packages stored in JupyterLab monorepo to docs Contribute section|https://github.com/jupyterlab/jupyterlab/issues/17420|
+|jupyterlab/jupyterlab|17388|No documentation for installing code editor highlighting themes|https://github.com/jupyterlab/jupyterlab/issues/17388|
+|jupyterlab/jupyterlab|17354|Update 4.1.x branch to pass CI checks|https://github.com/jupyterlab/jupyterlab/pull/17354|
+|jupyterlab/jupyterlab|17311|Document workspace selector widget and TopBar extension point|https://github.com/jupyterlab/jupyterlab/issues/17311|
+|jupyterlab/jupyterlab|17273|Update to TypeScript 5.6|https://github.com/jupyterlab/jupyterlab/pull/17273|
+|jupyterlab/jupyterlab|17246|try to build a real wheel in RTD|https://github.com/jupyterlab/jupyterlab/pull/17246|
+|jupyterlab/jupyterlab|16887|Reference API documentation no longer shows up in search results in docs|https://github.com/jupyterlab/jupyterlab/issues/16887|
+|jupyterlab/jupyterlab|16826|Command label ignored when adding extension to notebook toolbar|https://github.com/jupyterlab/jupyterlab/issues/16826|
+|jupyterlab/jupyterlab|16789|JupyterLab's UI is easy to break using CSS |https://github.com/jupyterlab/jupyterlab/issues/16789|
+|jupyterlab/jupyterlab|16698|Document runtime packages and runtime dependencies from security perspective|https://github.com/jupyterlab/jupyterlab/issues/16698|
+|jupyterlab/jupyterlab|16660|Amend best practices for CSS variables definitions in light of performance lessons learned|https://github.com/jupyterlab/jupyterlab/issues/16660|
+|jupyterlab/jupyterlab|16616|Style guide for dialog boxes and notifications|https://github.com/jupyterlab/jupyterlab/issues/16616|
+|jupyterlab/jupyterlab|16586|Describe cell input/output collapsing in the notebook documentation|https://github.com/jupyterlab/jupyterlab/pull/16586|
+|jupyterlab/jupyterlab|16374|Document the Auto-Save Feature|https://github.com/jupyterlab/jupyterlab/issues/16374|
+|jupyterlab/jupyterlab|16340|"preferred" in "Always start the preferred kernel" is not documented|https://github.com/jupyterlab/jupyterlab/issues/16340|
+|jupyterlab/jupyterlab|16282|Document JPY_SESSION_NAME environment variable, which contains current notebook's file path|https://github.com/jupyterlab/jupyterlab/issues/16282|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
