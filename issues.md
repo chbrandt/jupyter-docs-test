@@ -72,6 +72,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|18272|Document workspace selector and TopBar extension point|https://github.com/jupyterlab/jupyterlab/pull/18272|
 |jupyterlab/jupyterlab|18260|Docs: clarify CodeEditor text updates via sharedModel in JupyterLab 4|https://github.com/jupyterlab/jupyterlab/pull/18260|
 |jupyterlab/jupyterlab|18259|Document proxy environment variables for extension manager|https://github.com/jupyterlab/jupyterlab/pull/18259|
 |jupyterlab/jupyterlab|18242|Document runtime dependencies and security considerations|https://github.com/jupyterlab/jupyterlab/pull/18242|
@@ -101,7 +102,6 @@
 |jupyterlab/jupyterlab|16586|Describe cell input/output collapsing in the notebook documentation|https://github.com/jupyterlab/jupyterlab/pull/16586|
 |jupyterlab/jupyterlab|16374|Document the Auto-Save Feature|https://github.com/jupyterlab/jupyterlab/issues/16374|
 |jupyterlab/jupyterlab|16340|"preferred" in "Always start the preferred kernel" is not documented|https://github.com/jupyterlab/jupyterlab/issues/16340|
-|jupyterlab/jupyterlab|16282|Document JPY_SESSION_NAME environment variable, which contains current notebook's file path|https://github.com/jupyterlab/jupyterlab/issues/16282|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
