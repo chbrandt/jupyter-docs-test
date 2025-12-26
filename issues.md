@@ -72,6 +72,10 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|18283|add doc for autosave|https://github.com/jupyterlab/jupyterlab/pull/18283|
+|jupyterlab/jupyterlab|18281|docs: explain file creation behavior with multiple drives|https://github.com/jupyterlab/jupyterlab/pull/18281|
+|jupyterlab/jupyterlab|18280|Docs: clarify workspace state DB key handling|https://github.com/jupyterlab/jupyterlab/pull/18280|
+|jupyterlab/jupyterlab|18277|Docs: fix 404 for extension documents page|https://github.com/jupyterlab/jupyterlab/pull/18277|
 |jupyterlab/jupyterlab|18272|Document workspace selector and TopBar extension point|https://github.com/jupyterlab/jupyterlab/pull/18272|
 |jupyterlab/jupyterlab|18260|Docs: clarify CodeEditor text updates via sharedModel in JupyterLab 4|https://github.com/jupyterlab/jupyterlab/pull/18260|
 |jupyterlab/jupyterlab|18259|Document proxy environment variables for extension manager|https://github.com/jupyterlab/jupyterlab/pull/18259|
@@ -98,10 +102,6 @@
 |jupyterlab/jupyterlab|16789|JupyterLab's UI is easy to break using CSS |https://github.com/jupyterlab/jupyterlab/issues/16789|
 |jupyterlab/jupyterlab|16698|Document runtime packages and runtime dependencies from security perspective|https://github.com/jupyterlab/jupyterlab/issues/16698|
 |jupyterlab/jupyterlab|16660|Amend best practices for CSS variables definitions in light of performance lessons learned|https://github.com/jupyterlab/jupyterlab/issues/16660|
-|jupyterlab/jupyterlab|16616|Style guide for dialog boxes and notifications|https://github.com/jupyterlab/jupyterlab/issues/16616|
-|jupyterlab/jupyterlab|16586|Describe cell input/output collapsing in the notebook documentation|https://github.com/jupyterlab/jupyterlab/pull/16586|
-|jupyterlab/jupyterlab|16374|Document the Auto-Save Feature|https://github.com/jupyterlab/jupyterlab/issues/16374|
-|jupyterlab/jupyterlab|16340|"preferred" in "Always start the preferred kernel" is not documented|https://github.com/jupyterlab/jupyterlab/issues/16340|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
