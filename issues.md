@@ -89,7 +89,6 @@
 |jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
 |jupyterlab/jupyterlab|18088|Fix broken docs header layout on mobile and medium screens|https://github.com/jupyterlab/jupyterlab/pull/18088|
 |jupyterlab/jupyterlab|18001|Windows Terminal: behavior unusual, lack of documentation|https://github.com/jupyterlab/jupyterlab/issues/18001|
-|jupyterlab/jupyterlab|17986|Debugger: Display sources in main area widgets|https://github.com/jupyterlab/jupyterlab/pull/17986|
 |jupyterlab/jupyterlab|17959|Improving documentation: typedoc on CI should treat warnings as errors|https://github.com/jupyterlab/jupyterlab/issues/17959|
 |jupyterlab/jupyterlab|17838|Update to `ruff==0.14.7` and other pre-commit updates|https://github.com/jupyterlab/jupyterlab/pull/17838|
 |jupyterlab/jupyterlab|17644|docs: add Mermaid diagram usage guide with example image|https://github.com/jupyterlab/jupyterlab/pull/17644|
@@ -102,6 +101,7 @@
 |jupyterlab/jupyterlab|17246|try to build a real wheel in RTD|https://github.com/jupyterlab/jupyterlab/pull/17246|
 |jupyterlab/jupyterlab|16887|Reference API documentation no longer shows up in search results in docs|https://github.com/jupyterlab/jupyterlab/issues/16887|
 |jupyterlab/jupyterlab|16826|Command label ignored when adding extension to notebook toolbar|https://github.com/jupyterlab/jupyterlab/issues/16826|
+|jupyterlab/jupyterlab|16789|JupyterLab's UI is easy to break using CSS |https://github.com/jupyterlab/jupyterlab/issues/16789|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
