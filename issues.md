@@ -73,7 +73,6 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|18341|Backport PR #18340 on branch 4.5.x (Remove generated docs files from the repo)|https://github.com/jupyterlab/jupyterlab/pull/18341|
 |jupyterlab/jupyterlab|18337|Describe `kernelPreference` and `kernel` command args|https://github.com/jupyterlab/jupyterlab/pull/18337|
 |jupyterlab/jupyterlab|18328|Add Ctrl+B shortcut to toggle bold formatting in markdown cells|https://github.com/jupyterlab/jupyterlab/pull/18328|
 |jupyterlab/jupyterlab|18325|Docs: clarify Mermaid usage in Markdown cells|https://github.com/jupyterlab/jupyterlab/pull/18325|
@@ -103,6 +102,7 @@
 |jupyterlab/jupyterlab|17354|Update 4.1.x branch to pass CI checks|https://github.com/jupyterlab/jupyterlab/pull/17354|
 |jupyterlab/jupyterlab|17273|Update to TypeScript 5.6|https://github.com/jupyterlab/jupyterlab/pull/17273|
 |jupyterlab/jupyterlab|17246|try to build a real wheel in RTD|https://github.com/jupyterlab/jupyterlab/pull/17246|
+|jupyterlab/jupyterlab|16887|Reference API documentation no longer shows up in search results in docs|https://github.com/jupyterlab/jupyterlab/issues/16887|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
