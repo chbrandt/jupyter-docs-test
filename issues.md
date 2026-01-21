@@ -73,7 +73,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|18337|Describe `kernelPreference` and `kernel` command args|https://github.com/jupyterlab/jupyterlab/pull/18337|
+|jupyterlab/jupyterlab|18363|Add installation instructions for JupyterLab with uv|https://github.com/jupyterlab/jupyterlab/pull/18363|
 |jupyterlab/jupyterlab|18328|Add Ctrl+B shortcut to toggle bold formatting in markdown cells|https://github.com/jupyterlab/jupyterlab/pull/18328|
 |jupyterlab/jupyterlab|18325|Docs: clarify Mermaid usage in Markdown cells|https://github.com/jupyterlab/jupyterlab/pull/18325|
 |jupyterlab/jupyterlab|18322|Add AI rules|https://github.com/jupyterlab/jupyterlab/pull/18322|
