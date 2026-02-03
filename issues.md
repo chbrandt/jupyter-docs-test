@@ -75,19 +75,14 @@
 |jupyterlab/jupyterlab|18420|Update prettier, use cache and parallel CLI options|https://github.com/jupyterlab/jupyterlab/pull/18420|
 |jupyterlab/jupyterlab|18413|Disclose AI usage in PR template|https://github.com/jupyterlab/jupyterlab/pull/18413|
 |jupyterlab/jupyterlab|18398|Add automated spell check for documentation|https://github.com/jupyterlab/jupyterlab/pull/18398|
-|jupyterlab/jupyterlab|18390|Add setting to paste code cells without their outputs|https://github.com/jupyterlab/jupyterlab/pull/18390|
 |jupyterlab/jupyterlab|18388|Add setting to choose file name sort order in the file browser|https://github.com/jupyterlab/jupyterlab/pull/18388|
 |jupyterlab/jupyterlab|18325|Document Mermaid support in Markdown cells|https://github.com/jupyterlab/jupyterlab/pull/18325|
 |jupyterlab/jupyterlab|18321|Docs: document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18321|
 |jupyterlab/jupyterlab|18309|Docs: clarify editable vs generated files for non-developers|https://github.com/jupyterlab/jupyterlab/pull/18309|
-|jupyterlab/jupyterlab|18304|Docs: clarify notebook and cell metadata API changes in JupyterLab 4|https://github.com/jupyterlab/jupyterlab/pull/18304|
-|jupyterlab/jupyterlab|18302|Docs: document FileEditor sharedModel usage in 3.x to 4.x migration|https://github.com/jupyterlab/jupyterlab/pull/18302|
 |jupyterlab/jupyterlab|18293|Add keyboard shortcuts to switch main area tabs by index|https://github.com/jupyterlab/jupyterlab/pull/18293|
 |jupyterlab/jupyterlab|18281|docs: explain file creation behavior with multiple drives|https://github.com/jupyterlab/jupyterlab/pull/18281|
 |jupyterlab/jupyterlab|18280|Docs: clarify workspace state DB key handling|https://github.com/jupyterlab/jupyterlab/pull/18280|
-|jupyterlab/jupyterlab|18260|Docs: clarify CodeEditor text updates via sharedModel in JupyterLab 4|https://github.com/jupyterlab/jupyterlab/pull/18260|
 |jupyterlab/jupyterlab|18242|Document runtime dependencies and security considerations|https://github.com/jupyterlab/jupyterlab/pull/18242|
-|jupyterlab/jupyterlab|18230|Add annotated screenshot showing JupyterLab shell areas|https://github.com/jupyterlab/jupyterlab/pull/18230|
 |jupyterlab/jupyterlab|18135|Jupyter Book for the documentation|https://github.com/jupyterlab/jupyterlab/issues/18135|
 |jupyterlab/jupyterlab|18117|JupyterLab Interface Becomes Unresponsive During Multi-Process CPU-Intensive Operations in Terminal/Notebook|https://github.com/jupyterlab/jupyterlab/issues/18117|
 |jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
@@ -102,6 +97,11 @@
 |jupyterlab/jupyterlab|17246|try to build a real wheel in RTD|https://github.com/jupyterlab/jupyterlab/pull/17246|
 |jupyterlab/jupyterlab|16887|Reference API documentation no longer shows up in search results in docs|https://github.com/jupyterlab/jupyterlab/issues/16887|
 |jupyterlab/jupyterlab|16826|Command label ignored when adding extension to notebook toolbar|https://github.com/jupyterlab/jupyterlab/issues/16826|
+|jupyterlab/jupyterlab|16789|JupyterLab's UI is easy to break using CSS |https://github.com/jupyterlab/jupyterlab/issues/16789|
+|jupyterlab/jupyterlab|16698|Document runtime packages and runtime dependencies from security perspective|https://github.com/jupyterlab/jupyterlab/issues/16698|
+|jupyterlab/jupyterlab|16660|Amend best practices for CSS variables definitions in light of performance lessons learned|https://github.com/jupyterlab/jupyterlab/issues/16660|
+|jupyterlab/jupyterlab|16616|Style guide for dialog boxes and notifications|https://github.com/jupyterlab/jupyterlab/issues/16616|
+|jupyterlab/jupyterlab|16586|Describe cell input/output collapsing in the notebook documentation|https://github.com/jupyterlab/jupyterlab/pull/16586|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
