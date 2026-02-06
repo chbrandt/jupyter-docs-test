@@ -72,7 +72,8 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|18420|Update prettier, use cache and parallel CLI options|https://github.com/jupyterlab/jupyterlab/pull/18420|
+|jupyterlab/jupyterlab|18444|[strawman] replace lerna run with yarn workspaces foreach|https://github.com/jupyterlab/jupyterlab/pull/18444|
+|jupyterlab/jupyterlab|18442|Add a `CODEOWNERS` file, rewrite team members section in README|https://github.com/jupyterlab/jupyterlab/pull/18442|
 |jupyterlab/jupyterlab|18413|Disclose AI usage in PR template|https://github.com/jupyterlab/jupyterlab/pull/18413|
 |jupyterlab/jupyterlab|18398|Add automated spell check for documentation|https://github.com/jupyterlab/jupyterlab/pull/18398|
 |jupyterlab/jupyterlab|18325|Document Mermaid support in Markdown cells|https://github.com/jupyterlab/jupyterlab/pull/18325|
@@ -101,7 +102,6 @@
 |jupyterlab/jupyterlab|16660|Amend best practices for CSS variables definitions in light of performance lessons learned|https://github.com/jupyterlab/jupyterlab/issues/16660|
 |jupyterlab/jupyterlab|16616|Style guide for dialog boxes and notifications|https://github.com/jupyterlab/jupyterlab/issues/16616|
 |jupyterlab/jupyterlab|16586|Describe cell input/output collapsing in the notebook documentation|https://github.com/jupyterlab/jupyterlab/pull/16586|
-|jupyterlab/jupyterlab|16340|"preferred" in "Always start the preferred kernel" is not documented|https://github.com/jupyterlab/jupyterlab/issues/16340|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
