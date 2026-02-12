@@ -75,7 +75,7 @@
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
 |jupyterlab/jupyterlab|18467|Update to Rspack 2.0|https://github.com/jupyterlab/jupyterlab/pull/18467|
 |jupyterlab/jupyterlab|18444|[strawman] replace lerna run with yarn workspaces foreach|https://github.com/jupyterlab/jupyterlab/pull/18444|
-|jupyterlab/jupyterlab|18442|Add a `CODEOWNERS` file, rewrite team members section in README|https://github.com/jupyterlab/jupyterlab/pull/18442|
+|jupyterlab/jupyterlab|18442|Add a `CODEOWNERS` file|https://github.com/jupyterlab/jupyterlab/pull/18442|
 |jupyterlab/jupyterlab|18434|Migrate eslint to v9|https://github.com/jupyterlab/jupyterlab/pull/18434|
 |jupyterlab/jupyterlab|18413|Disclose AI usage in PR template|https://github.com/jupyterlab/jupyterlab/pull/18413|
 |jupyterlab/jupyterlab|18398|Add automated spell check for documentation|https://github.com/jupyterlab/jupyterlab/pull/18398|
