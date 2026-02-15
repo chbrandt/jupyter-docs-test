@@ -78,7 +78,6 @@
 |jupyterlab/jupyterlab|18444|[strawman] replace lerna run with yarn workspaces foreach|https://github.com/jupyterlab/jupyterlab/pull/18444|
 |jupyterlab/jupyterlab|18442|Add a `CODEOWNERS` file|https://github.com/jupyterlab/jupyterlab/pull/18442|
 |jupyterlab/jupyterlab|18434|Migrate eslint to v9|https://github.com/jupyterlab/jupyterlab/pull/18434|
-|jupyterlab/jupyterlab|18413|Disclose AI usage in PR template|https://github.com/jupyterlab/jupyterlab/pull/18413|
 |jupyterlab/jupyterlab|18398|Add automated spell check for documentation|https://github.com/jupyterlab/jupyterlab/pull/18398|
 |jupyterlab/jupyterlab|18325|Document Mermaid support in Markdown cells|https://github.com/jupyterlab/jupyterlab/pull/18325|
 |jupyterlab/jupyterlab|18321|Docs: document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18321|
@@ -103,6 +102,7 @@
 |jupyterlab/jupyterlab|16826|Command label ignored when adding extension to notebook toolbar|https://github.com/jupyterlab/jupyterlab/issues/16826|
 |jupyterlab/jupyterlab|16789|JupyterLab's UI is easy to break using CSS |https://github.com/jupyterlab/jupyterlab/issues/16789|
 |jupyterlab/jupyterlab|16698|Document runtime packages and runtime dependencies from security perspective|https://github.com/jupyterlab/jupyterlab/issues/16698|
+|jupyterlab/jupyterlab|16660|Amend best practices for CSS variables definitions in light of performance lessons learned|https://github.com/jupyterlab/jupyterlab/issues/16660|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
