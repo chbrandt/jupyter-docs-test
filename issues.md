@@ -73,12 +73,12 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|18723|[WIP] Use `@jupyter/builder` and remove `@jupyterlab/builder`|https://github.com/jupyterlab/jupyterlab/pull/18723|
 |jupyterlab/jupyterlab|18670|Integrate `plugin-playground` into "Develop Extensions" documentation|https://github.com/jupyterlab/jupyterlab/issues/18670|
 |jupyterlab/jupyterlab|18668|Add documentation about Metadata Editor - Advanced Tools interface|https://github.com/jupyterlab/jupyterlab/pull/18668|
 |jupyterlab/jupyterlab|18665|Docs: Document cell collapse first-line behavior (fixes #16179)|https://github.com/jupyterlab/jupyterlab/pull/18665|
 |jupyterlab/jupyterlab|18648|Add documentation for collapsing cells showing first line|https://github.com/jupyterlab/jupyterlab/pull/18648|
 |jupyterlab/jupyterlab|18644|Add documentation about Metadata Editor - Advanced Tools interface|https://github.com/jupyterlab/jupyterlab/issues/18644|
-|jupyterlab/jupyterlab|18571|Make the breadcrumbs in filebrowser editable + completion|https://github.com/jupyterlab/jupyterlab/pull/18571|
 |jupyterlab/jupyterlab|18501|docs: add Mermaid diagrams example to notebook guide|https://github.com/jupyterlab/jupyterlab/pull/18501|
 |jupyterlab/jupyterlab|18467|Update to Rspack 2.0|https://github.com/jupyterlab/jupyterlab/pull/18467|
 |jupyterlab/jupyterlab|18444|[strawman] replace lerna run with yarn workspaces foreach|https://github.com/jupyterlab/jupyterlab/pull/18444|
