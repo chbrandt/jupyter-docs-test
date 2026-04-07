@@ -73,7 +73,8 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|18723|[WIP] Use `@jupyter/builder` and remove `@jupyterlab/builder`|https://github.com/jupyterlab/jupyterlab/pull/18723|
+|jupyterlab/jupyterlab|18726|Integrate Plugin Playground into docs|https://github.com/jupyterlab/jupyterlab/pull/18726|
+|jupyterlab/jupyterlab|18723|Use `@jupyter/builder` and remove `@jupyterlab/builder`|https://github.com/jupyterlab/jupyterlab/pull/18723|
 |jupyterlab/jupyterlab|18670|Integrate `plugin-playground` into "Develop Extensions" documentation|https://github.com/jupyterlab/jupyterlab/issues/18670|
 |jupyterlab/jupyterlab|18668|Add documentation about Metadata Editor - Advanced Tools interface|https://github.com/jupyterlab/jupyterlab/pull/18668|
 |jupyterlab/jupyterlab|18665|Docs: Document cell collapse first-line behavior (fixes #16179)|https://github.com/jupyterlab/jupyterlab/pull/18665|
@@ -102,7 +103,6 @@
 |jupyterlab/jupyterlab|17420|Add instructions on developing JupyterLab extension packages stored in JupyterLab monorepo to docs Contribute section|https://github.com/jupyterlab/jupyterlab/issues/17420|
 |jupyterlab/jupyterlab|17388|No documentation for installing code editor highlighting themes|https://github.com/jupyterlab/jupyterlab/issues/17388|
 |jupyterlab/jupyterlab|17354|Update 4.1.x branch to pass CI checks|https://github.com/jupyterlab/jupyterlab/pull/17354|
-|jupyterlab/jupyterlab|17246|try to build a real wheel in RTD|https://github.com/jupyterlab/jupyterlab/pull/17246|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
