@@ -24,7 +24,6 @@
 |jupyter/jupyter|159|[docs/theme] Pay attention to the "width" of screenshot.|https://github.com/jupyter/jupyter/issues/159|
 |jupyter/jupyter|109|Link to dev-install from Install section.|https://github.com/jupyter/jupyter/issues/109|
 |jupyter/jupyter|66|[Docs] list supported mimetype |https://github.com/jupyter/jupyter/issues/66|
-|jupyter/notebook|7825|Backport PR #7824 on branch 7.5.x (docs: Fix broken links in troubleshooting and migration docs)|https://github.com/jupyter/notebook/pull/7825|
 |jupyter/notebook|7777|How to set up CDN acceleration for static files across multiple extensions？|https://github.com/jupyter/notebook/issues/7777|
 |jupyter/notebook|7701|`Documentation Fix: Add clear instructions for local dev environment setup`|https://github.com/jupyter/notebook/issues/7701|
 |jupyter/notebook|7428|Document Running Notebook over SSH Tunnel|https://github.com/jupyter/notebook/issues/7428|
@@ -38,7 +37,6 @@
 |jupyter/notebook|6848|Very poor navigation in new readthedocs builds|https://github.com/jupyter/notebook/issues/6848|
 |jupyter/notebook|6680|Add a large deprecation notice to the front-end extensions documentation|https://github.com/jupyter/notebook/issues/6680|
 |jupyter/notebook|6659|Document .ipynb_checkpoints directory|https://github.com/jupyter/notebook/issues/6659|
-|jupyter/notebook|6644|Updates to the contributor.rst file and addition of CONFIGURATION.md file|https://github.com/jupyter/notebook/pull/6644|
 |jupyter/notebook|4304|Running `jupyter notebook` opens visual studio code, not a browser|https://github.com/jupyter/notebook/issues/4304|
 |jupyter/notebook|4178|Buttons don't show up properly in Sphinx docs|https://github.com/jupyter/notebook/issues/4178|
 |jupyter/notebook|3550|Add faq entry about installing on python without sqlite extensions|https://github.com/jupyter/notebook/issues/3550|
