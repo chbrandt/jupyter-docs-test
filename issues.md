@@ -53,7 +53,6 @@
 |jupyterhub/jupyterhub|4673|Document / better support for separating user domains from the Hub domain|https://github.com/jupyterhub/jupyterhub/issues/4673|
 |jupyterhub/jupyterhub|4656|FastAPI service example - Authorization header not sent in subsequent requests|https://github.com/jupyterhub/jupyterhub/issues/4656|
 |jupyterhub/jupyterhub|4610|Better documentation on how to customize the home page|https://github.com/jupyterhub/jupyterhub/issues/4610|
-|jupyterhub/jupyterhub|4253|docs: simplify api docs generation for comparison|https://github.com/jupyterhub/jupyterhub/pull/4253|
 |jupyterhub/jupyterhub|4252|docs: classes generated docs sometimes include non-traits members, and sometimes do|https://github.com/jupyterhub/jupyterhub/issues/4252|
 |jupyterhub/jupyterhub|4241|More documentation on the implications of `server.name`|https://github.com/jupyterhub/jupyterhub/issues/4241|
 |jupyterhub/jupyterhub|4213|`post_auth_hook` documentation update|https://github.com/jupyterhub/jupyterhub/issues/4213|
@@ -103,5 +102,4 @@
 |jupyterlab/jupyterlab|17388|No documentation for installing code editor highlighting themes|https://github.com/jupyterlab/jupyterlab/issues/17388|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
-|jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
 |jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
