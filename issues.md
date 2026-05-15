@@ -85,7 +85,7 @@
 |jupyterlab/jupyterlab|18321|Docs: document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18321|
 |jupyterlab/jupyterlab|18309|Docs: clarify editable vs generated files for non-developers|https://github.com/jupyterlab/jupyterlab/pull/18309|
 |jupyterlab/jupyterlab|18293|Add keyboard shortcuts to switch main area tabs by index|https://github.com/jupyterlab/jupyterlab/pull/18293|
-|jupyterlab/jupyterlab|18281|docs: explain file creation behavior with multiple drives|https://github.com/jupyterlab/jupyterlab/pull/18281|
+|jupyterlab/jupyterlab|18281|Explain file creation behavior with multiple drives|https://github.com/jupyterlab/jupyterlab/pull/18281|
 |jupyterlab/jupyterlab|18280|Docs: clarify workspace state DB key handling|https://github.com/jupyterlab/jupyterlab/pull/18280|
 |jupyterlab/jupyterlab|18242|Document runtime dependencies and security considerations|https://github.com/jupyterlab/jupyterlab/pull/18242|
 |jupyterlab/jupyterlab|18135|Jupyter Book for the documentation|https://github.com/jupyterlab/jupyterlab/issues/18135|
