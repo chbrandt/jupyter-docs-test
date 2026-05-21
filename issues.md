@@ -74,7 +74,6 @@
 |jupyterlab/jupyterlab|18904|Add `jupyter-builder` section in Extension Migration guide|https://github.com/jupyterlab/jupyterlab/pull/18904|
 |jupyterlab/jupyterlab|18884|docs: add custom keyboard shortcut example|https://github.com/jupyterlab/jupyterlab/pull/18884|
 |jupyterlab/jupyterlab|18823|[strawman] remove vendored yarn.js|https://github.com/jupyterlab/jupyterlab/pull/18823|
-|jupyterlab/jupyterlab|18703|Allow moving sections between panels|https://github.com/jupyterlab/jupyterlab/pull/18703|
 |jupyterlab/jupyterlab|18668|Add documentation about Metadata Editor - Advanced Tools interface|https://github.com/jupyterlab/jupyterlab/pull/18668|
 |jupyterlab/jupyterlab|18665|Docs: Document cell collapse first-line behavior (fixes #16179)|https://github.com/jupyterlab/jupyterlab/pull/18665|
 |jupyterlab/jupyterlab|18648|Add documentation for collapsing cells showing first line|https://github.com/jupyterlab/jupyterlab/pull/18648|
@@ -101,6 +100,7 @@
 |jupyterlab/jupyterlab|17420|Add instructions on developing JupyterLab extension packages stored in JupyterLab monorepo to docs Contribute section|https://github.com/jupyterlab/jupyterlab/issues/17420|
 |jupyterlab/jupyterlab|17388|No documentation for installing code editor highlighting themes|https://github.com/jupyterlab/jupyterlab/issues/17388|
 |jupyterlab/jupyterlab|17354|Update 4.1.x branch to pass CI checks|https://github.com/jupyterlab/jupyterlab/pull/17354|
+|jupyterlab/jupyterlab|17246|try to build a real wheel in RTD|https://github.com/jupyterlab/jupyterlab/pull/17246|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
