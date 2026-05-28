@@ -46,6 +46,7 @@
 |jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
+|jupyterhub/jupyterhub|5394|docs: clarify upgrade-db subcommand vs --upgrade-db flag|https://github.com/jupyterhub/jupyterhub/pull/5394|
 |jupyterhub/jupyterhub|5081|The API docs are incomplete|https://github.com/jupyterhub/jupyterhub/issues/5081|
 |jupyterhub/jupyterhub|5077|Add examples of Public authorities among users of JupyterHub|https://github.com/jupyterhub/jupyterhub/pull/5077|
 |jupyterhub/jupyterhub|4866|How to customise JupyterHub depending on group membership?|https://github.com/jupyterhub/jupyterhub/issues/4866|
@@ -74,7 +75,6 @@
 |jupyterlab/jupyterlab|18935|Improve error message to mention npm alongside nodejs|https://github.com/jupyterlab/jupyterlab/pull/18935|
 |jupyterlab/jupyterlab|18934|Document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18934|
 |jupyterlab/jupyterlab|18884|docs: add custom keyboard shortcut example|https://github.com/jupyterlab/jupyterlab/pull/18884|
-|jupyterlab/jupyterlab|18739|Refactor shared document dirty state|https://github.com/jupyterlab/jupyterlab/pull/18739|
 |jupyterlab/jupyterlab|18668|Add documentation about Metadata Editor - Advanced Tools interface|https://github.com/jupyterlab/jupyterlab/pull/18668|
 |jupyterlab/jupyterlab|18665|Docs: Document cell collapse first-line behavior (fixes #16179)|https://github.com/jupyterlab/jupyterlab/pull/18665|
 |jupyterlab/jupyterlab|18648|Add documentation for collapsing cells showing first line|https://github.com/jupyterlab/jupyterlab/pull/18648|
@@ -101,6 +101,7 @@
 |jupyterlab/jupyterlab|17420|Add instructions on developing JupyterLab extension packages stored in JupyterLab monorepo to docs Contribute section|https://github.com/jupyterlab/jupyterlab/issues/17420|
 |jupyterlab/jupyterlab|17388|No documentation for installing code editor highlighting themes|https://github.com/jupyterlab/jupyterlab/issues/17388|
 |jupyterlab/jupyterlab|17354|Update 4.1.x branch to pass CI checks|https://github.com/jupyterlab/jupyterlab/pull/17354|
+|jupyterlab/jupyterlab|17246|try to build a real wheel in RTD|https://github.com/jupyterlab/jupyterlab/pull/17246|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
