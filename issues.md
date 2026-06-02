@@ -48,13 +48,11 @@
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
 |jupyterhub/jupyterhub|5394|docs: clarify upgrade-db subcommand vs --upgrade-db flag|https://github.com/jupyterhub/jupyterhub/pull/5394|
 |jupyterhub/jupyterhub|5081|The API docs are incomplete|https://github.com/jupyterhub/jupyterhub/issues/5081|
-|jupyterhub/jupyterhub|5077|Add examples of Public authorities among users of JupyterHub|https://github.com/jupyterhub/jupyterhub/pull/5077|
 |jupyterhub/jupyterhub|4866|How to customise JupyterHub depending on group membership?|https://github.com/jupyterhub/jupyterhub/issues/4866|
 |jupyterhub/jupyterhub|4845|JupyterHub differs in `xsrf` behaviour from jupyter-server|https://github.com/jupyterhub/jupyterhub/issues/4845|
 |jupyterhub/jupyterhub|4673|Document / better support for separating user domains from the Hub domain|https://github.com/jupyterhub/jupyterhub/issues/4673|
 |jupyterhub/jupyterhub|4656|FastAPI service example - Authorization header not sent in subsequent requests|https://github.com/jupyterhub/jupyterhub/issues/4656|
 |jupyterhub/jupyterhub|4610|Better documentation on how to customize the home page|https://github.com/jupyterhub/jupyterhub/issues/4610|
-|jupyterhub/jupyterhub|4253|docs: simplify api docs generation for comparison|https://github.com/jupyterhub/jupyterhub/pull/4253|
 |jupyterhub/jupyterhub|4252|docs: classes generated docs sometimes include non-traits members, and sometimes do|https://github.com/jupyterhub/jupyterhub/issues/4252|
 |jupyterhub/jupyterhub|4241|More documentation on the implications of `server.name`|https://github.com/jupyterhub/jupyterhub/issues/4241|
 |jupyterhub/jupyterhub|4213|`post_auth_hook` documentation update|https://github.com/jupyterhub/jupyterhub/issues/4213|
@@ -72,10 +70,11 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|18979|docs: clarify TypeScript watch builds|https://github.com/jupyterlab/jupyterlab/pull/18979|
 |jupyterlab/jupyterlab|18974|Add local zizmor pre-commit hook and pin CI/local versions|https://github.com/jupyterlab/jupyterlab/pull/18974|
 |jupyterlab/jupyterlab|18972|Fix typos across packages found by codespell|https://github.com/jupyterlab/jupyterlab/pull/18972|
 |jupyterlab/jupyterlab|18967|Document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18967|
-|jupyterlab/jupyterlab|18961|Fix even more flaky UI tests|https://github.com/jupyterlab/jupyterlab/pull/18961|
+|jupyterlab/jupyterlab|18961|Fix scrolling to heading in ToC, workspace opening and flaky UI tests|https://github.com/jupyterlab/jupyterlab/pull/18961|
 |jupyterlab/jupyterlab|18934|Document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18934|
 |jupyterlab/jupyterlab|18884|docs: add custom keyboard shortcut example|https://github.com/jupyterlab/jupyterlab/pull/18884|
 |jupyterlab/jupyterlab|18668|Add documentation about Metadata Editor - Advanced Tools interface|https://github.com/jupyterlab/jupyterlab/pull/18668|
@@ -101,7 +100,6 @@
 |jupyterlab/jupyterlab|17959|Improving documentation: typedoc on CI should treat warnings as errors|https://github.com/jupyterlab/jupyterlab/issues/17959|
 |jupyterlab/jupyterlab|17644|docs: add Mermaid diagram usage guide with example image|https://github.com/jupyterlab/jupyterlab/pull/17644|
 |jupyterlab/jupyterlab|17606|display dataFrame or series side By side|https://github.com/jupyterlab/jupyterlab/issues/17606|
-|jupyterlab/jupyterlab|17420|Add instructions on developing JupyterLab extension packages stored in JupyterLab monorepo to docs Contribute section|https://github.com/jupyterlab/jupyterlab/issues/17420|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
