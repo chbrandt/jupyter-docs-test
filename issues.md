@@ -70,9 +70,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|19024|Make docs dependencies a dependency group|https://github.com/jupyterlab/jupyterlab/pull/19024|
-|jupyterlab/jupyterlab|19020|Drop `setuptools` dependency|https://github.com/jupyterlab/jupyterlab/pull/19020|
-|jupyterlab/jupyterlab|19017|Work around Welcome docs screenshot flake|https://github.com/jupyterlab/jupyterlab/pull/19017|
+|jupyterlab/jupyterlab|19033|Add Sphinx spelling script for changed doc lines|https://github.com/jupyterlab/jupyterlab/pull/19033|
 |jupyterlab/jupyterlab|18974|Add local zizmor pre-commit hook and pin CI/local versions|https://github.com/jupyterlab/jupyterlab/pull/18974|
 |jupyterlab/jupyterlab|18934|Document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18934|
 |jupyterlab/jupyterlab|18884|docs: add custom keyboard shortcut example|https://github.com/jupyterlab/jupyterlab/pull/18884|
@@ -100,6 +98,8 @@
 |jupyterlab/jupyterlab|17606|display dataFrame or series side By side|https://github.com/jupyterlab/jupyterlab/issues/17606|
 |jupyterlab/jupyterlab|17420|Add instructions on developing JupyterLab extension packages stored in JupyterLab monorepo to docs Contribute section|https://github.com/jupyterlab/jupyterlab/issues/17420|
 |jupyterlab/jupyterlab|17388|No documentation for installing code editor highlighting themes|https://github.com/jupyterlab/jupyterlab/issues/17388|
+|jupyterlab/jupyterlab|17354|Update 4.1.x branch to pass CI checks|https://github.com/jupyterlab/jupyterlab/pull/17354|
+|jupyterlab/jupyterlab|17246|try to build a real wheel in RTD|https://github.com/jupyterlab/jupyterlab/pull/17246|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
