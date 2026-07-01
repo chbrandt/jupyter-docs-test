@@ -71,7 +71,7 @@
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
 |jupyterlab/jupyterlab|19108|Update migration guide - 4.6 was released|https://github.com/jupyterlab/jupyterlab/pull/19108|
-|jupyterlab/jupyterlab|19066|localize remaining examples|https://github.com/jupyterlab/jupyterlab/pull/19066|
+|jupyterlab/jupyterlab|19066|Add a standalone localization example|https://github.com/jupyterlab/jupyterlab/pull/19066|
 |jupyterlab/jupyterlab|19033|Add Sphinx spelling script for changed doc lines|https://github.com/jupyterlab/jupyterlab/pull/19033|
 |jupyterlab/jupyterlab|18934|Document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18934|
 |jupyterlab/jupyterlab|18884|docs: add custom keyboard shortcut example|https://github.com/jupyterlab/jupyterlab/pull/18884|
