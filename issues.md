@@ -70,6 +70,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|19212|Update JEP 91 link to the new MyST docs URL|https://github.com/jupyterlab/jupyterlab/pull/19212|
 |jupyterlab/jupyterlab|19197|Display cell IDs in Notebook's Property Inspector in Common Tools section|https://github.com/jupyterlab/jupyterlab/pull/19197|
 |jupyterlab/jupyterlab|19195|Add Copy Link Address to the terminal context menu|https://github.com/jupyterlab/jupyterlab/pull/19195|
 |jupyterlab/jupyterlab|19189|Update announcement banner to point to jupyter-wide announcement banner|https://github.com/jupyterlab/jupyterlab/pull/19189|
@@ -99,7 +100,6 @@
 |jupyterlab/jupyterlab|17959|Improving documentation: typedoc on CI should treat warnings as errors|https://github.com/jupyterlab/jupyterlab/issues/17959|
 |jupyterlab/jupyterlab|17606|display dataFrame or series side By side|https://github.com/jupyterlab/jupyterlab/issues/17606|
 |jupyterlab/jupyterlab|17420|Add instructions on developing JupyterLab extension packages stored in JupyterLab monorepo to docs Contribute section|https://github.com/jupyterlab/jupyterlab/issues/17420|
-|jupyterlab/jupyterlab|17388|No documentation for installing code editor highlighting themes|https://github.com/jupyterlab/jupyterlab/issues/17388|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
 |jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
