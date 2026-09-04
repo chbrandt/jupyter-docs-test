@@ -68,6 +68,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|19670|Backport PR #19189 on branch 4.6.x (Update announcement banner to point to jupyter-wide announcement banner)|https://github.com/jupyterlab/jupyterlab/pull/19670|
 |jupyterlab/jupyterlab|19634|docs(contributing): explain what `--extensions-in-dev-mode` actually changes|https://github.com/jupyterlab/jupyterlab/pull/19634|
 |jupyterlab/jupyterlab|19627|Defer loading disabled federated extensions during startup|https://github.com/jupyterlab/jupyterlab/pull/19627|
 |jupyterlab/jupyterlab|19614|Restore "Clear Outputs of All Cells" in Notebook context menu|https://github.com/jupyterlab/jupyterlab/pull/19614|
@@ -75,7 +76,6 @@
 |jupyterlab/jupyterlab|19220|Add R operator shortcuts|https://github.com/jupyterlab/jupyterlab/pull/19220|
 |jupyterlab/jupyterlab|19219|docs: explain how notebook file links are resolved|https://github.com/jupyterlab/jupyterlab/pull/19219|
 |jupyterlab/jupyterlab|19197|Display cell IDs in Notebook's Property Inspector in Common Tools section|https://github.com/jupyterlab/jupyterlab/pull/19197|
-|jupyterlab/jupyterlab|19189|Update announcement banner to point to jupyter-wide announcement banner|https://github.com/jupyterlab/jupyterlab/pull/19189|
 |jupyterlab/jupyterlab|19175|Support recently used commands in the command palette|https://github.com/jupyterlab/jupyterlab/pull/19175|
 |jupyterlab/jupyterlab|19171|Skip fork PR review triggers for snapshot updates|https://github.com/jupyterlab/jupyterlab/pull/19171|
 |jupyterlab/jupyterlab|19150|Add `open-with` query support to tree routes|https://github.com/jupyterlab/jupyterlab/pull/19150|
