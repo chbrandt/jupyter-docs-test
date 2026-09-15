@@ -68,6 +68,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|19762|docs(services): use resolvable absolute links in the package README|https://github.com/jupyterlab/jupyterlab/pull/19762|
 |jupyterlab/jupyterlab|19751|Enable lazy import ESLint rule and bump Eslint version|https://github.com/jupyterlab/jupyterlab/pull/19751|
 |jupyterlab/jupyterlab|19735|Use plugin IDs to defer loading extension disabled by disabling all its plugins|https://github.com/jupyterlab/jupyterlab/pull/19735|
 |jupyterlab/jupyterlab|19634|docs(contributing): explain what `--extensions-in-dev-mode` actually changes|https://github.com/jupyterlab/jupyterlab/pull/19634|
@@ -81,10 +82,8 @@
 |jupyterlab/jupyterlab|19033|Add Sphinx spelling script for changed doc lines|https://github.com/jupyterlab/jupyterlab/pull/19033|
 |jupyterlab/jupyterlab|18934|Document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18934|
 |jupyterlab/jupyterlab|18884|docs: add custom keyboard shortcut example|https://github.com/jupyterlab/jupyterlab/pull/18884|
-|jupyterlab/jupyterlab|18668|Add documentation about Metadata Editor - Advanced Tools interface|https://github.com/jupyterlab/jupyterlab/pull/18668|
 |jupyterlab/jupyterlab|18665|Docs: Document cell collapse first-line behavior (fixes #16179)|https://github.com/jupyterlab/jupyterlab/pull/18665|
 |jupyterlab/jupyterlab|18648|Add documentation for collapsing cells showing first line|https://github.com/jupyterlab/jupyterlab/pull/18648|
-|jupyterlab/jupyterlab|18644|Add documentation about Metadata Editor - Advanced Tools interface|https://github.com/jupyterlab/jupyterlab/issues/18644|
 |jupyterlab/jupyterlab|18444|[strawman] replace lerna run with yarn workspaces foreach|https://github.com/jupyterlab/jupyterlab/pull/18444|
 |jupyterlab/jupyterlab|18442|Add a `CODEOWNERS` file|https://github.com/jupyterlab/jupyterlab/pull/18442|
 |jupyterlab/jupyterlab|18321|Docs: document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18321|
@@ -98,6 +97,7 @@
 |jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
 |jupyterlab/jupyterlab|18088|Fix broken docs header layout on mobile and medium screens|https://github.com/jupyterlab/jupyterlab/pull/18088|
 |jupyterlab/jupyterlab|18001|Windows Terminal: behavior unusual, lack of documentation|https://github.com/jupyterlab/jupyterlab/issues/18001|
+|jupyterlab/jupyterlab|17959|Improving documentation: typedoc on CI should treat warnings as errors|https://github.com/jupyterlab/jupyterlab/issues/17959|
 |jupyterlab/jupyterlab-desktop|1122|Adopt jupyterlab's AGENTS.md convention|https://github.com/jupyterlab/jupyterlab-desktop/issues/1122|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
