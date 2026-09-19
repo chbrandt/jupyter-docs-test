@@ -68,6 +68,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|19774|Remove CLAUDE.md in favor of AGENTS.md|https://github.com/jupyterlab/jupyterlab/pull/19774|
 |jupyterlab/jupyterlab|19762|docs(services): use resolvable absolute links in the package README|https://github.com/jupyterlab/jupyterlab/pull/19762|
 |jupyterlab/jupyterlab|19751|Enable lazy import ESLint rule and bump Eslint version|https://github.com/jupyterlab/jupyterlab/pull/19751|
 |jupyterlab/jupyterlab|19735|Use plugin IDs to defer loading extension disabled by disabling all its plugins|https://github.com/jupyterlab/jupyterlab/pull/19735|
@@ -97,7 +98,6 @@
 |jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
 |jupyterlab/jupyterlab|18088|Fix broken docs header layout on mobile and medium screens|https://github.com/jupyterlab/jupyterlab/pull/18088|
 |jupyterlab/jupyterlab|18001|Windows Terminal: behavior unusual, lack of documentation|https://github.com/jupyterlab/jupyterlab/issues/18001|
-|jupyterlab/jupyterlab|17959|Improving documentation: typedoc on CI should treat warnings as errors|https://github.com/jupyterlab/jupyterlab/issues/17959|
 |jupyterlab/jupyterlab-desktop|1122|Adopt jupyterlab's AGENTS.md convention|https://github.com/jupyterlab/jupyterlab-desktop/issues/1122|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
