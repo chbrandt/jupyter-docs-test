@@ -45,6 +45,7 @@
 |jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
+|jupyterhub/jupyterhub|5529|add doc on idleness|https://github.com/jupyterhub/jupyterhub/pull/5529|
 |jupyterhub/jupyterhub|5081|The API docs are incomplete|https://github.com/jupyterhub/jupyterhub/issues/5081|
 |jupyterhub/jupyterhub|4866|How to customise JupyterHub depending on group membership?|https://github.com/jupyterhub/jupyterhub/issues/4866|
 |jupyterhub/jupyterhub|4845|JupyterHub differs in `xsrf` behaviour from jupyter-server|https://github.com/jupyterhub/jupyterhub/issues/4845|
@@ -73,10 +74,10 @@
 |jupyterlab/jupyterlab|19735|Use plugin IDs to defer loading extension disabled by disabling all its plugins|https://github.com/jupyterlab/jupyterlab/pull/19735|
 |jupyterlab/jupyterlab|19634|docs(contributing): explain what `--extensions-in-dev-mode` actually changes|https://github.com/jupyterlab/jupyterlab/pull/19634|
 |jupyterlab/jupyterlab|19614|Restore "Clear Outputs of All Cells" in Notebook context menu|https://github.com/jupyterlab/jupyterlab/pull/19614|
+|jupyterlab/jupyterlab|19380|Fix TypeDoc warnings and enforce warning-free documentation in CI|https://github.com/jupyterlab/jupyterlab/pull/19380|
 |jupyterlab/jupyterlab|19230|docs: document theme-aware extension styles|https://github.com/jupyterlab/jupyterlab/pull/19230|
 |jupyterlab/jupyterlab|19220|Add R operator shortcuts|https://github.com/jupyterlab/jupyterlab/pull/19220|
 |jupyterlab/jupyterlab|19175|Support recently used commands in the command palette|https://github.com/jupyterlab/jupyterlab/pull/19175|
-|jupyterlab/jupyterlab|19171|Skip fork PR review triggers for snapshot updates|https://github.com/jupyterlab/jupyterlab/pull/19171|
 |jupyterlab/jupyterlab|19150|Add `open-with` query support to tree routes|https://github.com/jupyterlab/jupyterlab/pull/19150|
 |jupyterlab/jupyterlab|19081|Fix default 'content' option in RestContentProvider fetch|https://github.com/jupyterlab/jupyterlab/pull/19081|
 |jupyterlab/jupyterlab|19033|Add Sphinx spelling script for changed doc lines|https://github.com/jupyterlab/jupyterlab/pull/19033|
