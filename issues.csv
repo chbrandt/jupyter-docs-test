@@ -73,7 +73,7 @@
 "jupyterlab/jupyterlab","19940","Upgrade Jest to 30","https://github.com/jupyterlab/jupyterlab/pull/19940"
 "jupyterlab/jupyterlab","19825","Document how services can be provided through extended tokens","https://github.com/jupyterlab/jupyterlab/pull/19825"
 "jupyterlab/jupyterlab","19815"," Upgrade MathJax to 4.1","https://github.com/jupyterlab/jupyterlab/pull/19815"
-"jupyterlab/jupyterlab","19808","Update eslint version","https://github.com/jupyterlab/jupyterlab/pull/19808"
+"jupyterlab/jupyterlab","19808","Update `@jupyter/eslint-plugin` version","https://github.com/jupyterlab/jupyterlab/pull/19808"
 "jupyterlab/jupyterlab","19762","docs(services): use resolvable absolute links in the package README","https://github.com/jupyterlab/jupyterlab/pull/19762"
 "jupyterlab/jupyterlab","19735","Use plugin IDs to defer loading extension disabled by disabling all its plugins","https://github.com/jupyterlab/jupyterlab/pull/19735"
 "jupyterlab/jupyterlab","19634","docs(contributing): explain what `--extensions-in-dev-mode` actually changes","https://github.com/jupyterlab/jupyterlab/pull/19634"
