@@ -45,7 +45,6 @@
 |jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
 |jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
 |jupyter/notebook|660|Update public server document with troubleshooting and additional resources|https://github.com/jupyter/notebook/issues/660|
-|jupyterhub/jupyterhub|5529|add doc on idleness|https://github.com/jupyterhub/jupyterhub/pull/5529|
 |jupyterhub/jupyterhub|5394|docs: clarify upgrade-db subcommand vs --upgrade-db flag|https://github.com/jupyterhub/jupyterhub/pull/5394|
 |jupyterhub/jupyterhub|5081|The API docs are incomplete|https://github.com/jupyterhub/jupyterhub/issues/5081|
 |jupyterhub/jupyterhub|4866|How to customise JupyterHub depending on group membership?|https://github.com/jupyterhub/jupyterhub/issues/4866|
@@ -74,7 +73,6 @@
 |jupyterlab/jupyterlab|19940|Upgrade Jest to 30|https://github.com/jupyterlab/jupyterlab/pull/19940|
 |jupyterlab/jupyterlab|19825|Document how services can be provided through extended tokens|https://github.com/jupyterlab/jupyterlab/pull/19825|
 |jupyterlab/jupyterlab|19815| Upgrade MathJax to 4.1|https://github.com/jupyterlab/jupyterlab/pull/19815|
-|jupyterlab/jupyterlab|19808|Update `@jupyter/eslint-plugin` version|https://github.com/jupyterlab/jupyterlab/pull/19808|
 |jupyterlab/jupyterlab|19762|docs(services): use resolvable absolute links in the package README|https://github.com/jupyterlab/jupyterlab/pull/19762|
 |jupyterlab/jupyterlab|19735|Use plugin IDs to defer loading extension disabled by disabling all its plugins|https://github.com/jupyterlab/jupyterlab/pull/19735|
 |jupyterlab/jupyterlab|19634|docs(contributing): explain what `--extensions-in-dev-mode` actually changes|https://github.com/jupyterlab/jupyterlab/pull/19634|
@@ -100,6 +98,7 @@
 |jupyterlab/jupyterlab|18242|Document runtime dependencies and security considerations|https://github.com/jupyterlab/jupyterlab/pull/18242|
 |jupyterlab/jupyterlab|18135|Jupyter Book for the documentation|https://github.com/jupyterlab/jupyterlab/issues/18135|
 |jupyterlab/jupyterlab|18117|JupyterLab Interface Becomes Unresponsive During Multi-Process CPU-Intensive Operations in Terminal/Notebook|https://github.com/jupyterlab/jupyterlab/issues/18117|
+|jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
 |jupyterlab/jupyterlab-desktop|1122|Adopt jupyterlab's AGENTS.md convention|https://github.com/jupyterlab/jupyterlab-desktop/issues/1122|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
