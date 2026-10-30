@@ -68,7 +68,7 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
-|jupyterlab/jupyterlab|20280|Drop lerna, replace it with `yarn workspaces foreach`|https://github.com/jupyterlab/jupyterlab/pull/20280|
+|jupyterlab/jupyterlab|20321|Add an option to collapse the main menu into a menu button|https://github.com/jupyterlab/jupyterlab/pull/20321|
 |jupyterlab/jupyterlab|20173|docs: explain installing editor themes|https://github.com/jupyterlab/jupyterlab/pull/20173|
 |jupyterlab/jupyterlab|20089|Make the code console creation screencast reproducible|https://github.com/jupyterlab/jupyterlab/pull/20089|
 |jupyterlab/jupyterlab|20072|Consult the server authorizer in the lab API handlers|https://github.com/jupyterlab/jupyterlab/pull/20072|
@@ -82,22 +82,22 @@
 |jupyterlab/jupyterlab|19614|Restore "Clear Outputs of All Cells" in Notebook context menu|https://github.com/jupyterlab/jupyterlab/pull/19614|
 |jupyterlab/jupyterlab|19380|Fix TypeDoc warnings and enforce warning-free documentation in CI|https://github.com/jupyterlab/jupyterlab/pull/19380|
 |jupyterlab/jupyterlab|19230|docs: document theme-aware extension styles|https://github.com/jupyterlab/jupyterlab/pull/19230|
-|jupyterlab/jupyterlab|19220|Add R operator shortcuts|https://github.com/jupyterlab/jupyterlab/pull/19220|
 |jupyterlab/jupyterlab|19175|Support recently used commands in the command palette|https://github.com/jupyterlab/jupyterlab/pull/19175|
 |jupyterlab/jupyterlab|19150|Add `open-with` query support to tree routes|https://github.com/jupyterlab/jupyterlab/pull/19150|
+|jupyterlab/jupyterlab|19138|Reuse terminal tab titles in the Running sidebar|https://github.com/jupyterlab/jupyterlab/pull/19138|
 |jupyterlab/jupyterlab|19081|Fix default 'content' option in RestContentProvider fetch|https://github.com/jupyterlab/jupyterlab/pull/19081|
 |jupyterlab/jupyterlab|19033|Add Sphinx spelling script for changed doc lines|https://github.com/jupyterlab/jupyterlab/pull/19033|
 |jupyterlab/jupyterlab|18934|Document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18934|
 |jupyterlab/jupyterlab|18933|Enable drag-to-reorder for all SidePanel accordion sections |https://github.com/jupyterlab/jupyterlab/pull/18933|
-|jupyterlab/jupyterlab|18884|docs: add custom keyboard shortcut example|https://github.com/jupyterlab/jupyterlab/pull/18884|
 |jupyterlab/jupyterlab|18665|Docs: Document cell collapse first-line behavior (fixes #16179)|https://github.com/jupyterlab/jupyterlab/pull/18665|
 |jupyterlab/jupyterlab|18648|Add documentation for collapsing cells showing first line|https://github.com/jupyterlab/jupyterlab/pull/18648|
-|jupyterlab/jupyterlab|18444|[strawman] replace lerna run with yarn workspaces foreach|https://github.com/jupyterlab/jupyterlab/pull/18444|
 |jupyterlab/jupyterlab|18442|Add a `CODEOWNERS` file|https://github.com/jupyterlab/jupyterlab/pull/18442|
 |jupyterlab/jupyterlab|18321|Docs: document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18321|
 |jupyterlab/jupyterlab|18309|Docs: clarify editable vs generated files for non-developers|https://github.com/jupyterlab/jupyterlab/pull/18309|
-|jupyterlab/jupyterlab|18293|Add keyboard shortcuts to switch main area tabs by index|https://github.com/jupyterlab/jupyterlab/pull/18293|
 |jupyterlab/jupyterlab|18281|Explain file creation behavior with multiple drives|https://github.com/jupyterlab/jupyterlab/pull/18281|
+|jupyterlab/jupyterlab|18280|Docs: clarify workspace state DB key handling|https://github.com/jupyterlab/jupyterlab/pull/18280|
+|jupyterlab/jupyterlab|18242|Document runtime dependencies and security considerations|https://github.com/jupyterlab/jupyterlab/pull/18242|
+|jupyterlab/jupyterlab|18135|Jupyter Book for the documentation|https://github.com/jupyterlab/jupyterlab/issues/18135|
 |jupyterlab/jupyterlab-desktop|1122|Adopt jupyterlab's AGENTS.md convention|https://github.com/jupyterlab/jupyterlab-desktop/issues/1122|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
