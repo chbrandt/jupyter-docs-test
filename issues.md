@@ -84,7 +84,6 @@
 |jupyterlab/jupyterlab|19230|docs: document theme-aware extension styles|https://github.com/jupyterlab/jupyterlab/pull/19230|
 |jupyterlab/jupyterlab|19175|Support recently used commands in the command palette|https://github.com/jupyterlab/jupyterlab/pull/19175|
 |jupyterlab/jupyterlab|19150|Add `open-with` query support to tree routes|https://github.com/jupyterlab/jupyterlab/pull/19150|
-|jupyterlab/jupyterlab|19138|Reuse terminal tab titles in the Running sidebar|https://github.com/jupyterlab/jupyterlab/pull/19138|
 |jupyterlab/jupyterlab|19081|Fix default 'content' option in RestContentProvider fetch|https://github.com/jupyterlab/jupyterlab/pull/19081|
 |jupyterlab/jupyterlab|19033|Add Sphinx spelling script for changed doc lines|https://github.com/jupyterlab/jupyterlab/pull/19033|
 |jupyterlab/jupyterlab|18934|Document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18934|
@@ -98,6 +97,7 @@
 |jupyterlab/jupyterlab|18280|Docs: clarify workspace state DB key handling|https://github.com/jupyterlab/jupyterlab/pull/18280|
 |jupyterlab/jupyterlab|18242|Document runtime dependencies and security considerations|https://github.com/jupyterlab/jupyterlab/pull/18242|
 |jupyterlab/jupyterlab|18135|Jupyter Book for the documentation|https://github.com/jupyterlab/jupyterlab/issues/18135|
+|jupyterlab/jupyterlab|18117|JupyterLab Interface Becomes Unresponsive During Multi-Process CPU-Intensive Operations in Terminal/Notebook|https://github.com/jupyterlab/jupyterlab/issues/18117|
 |jupyterlab/jupyterlab-desktop|1122|Adopt jupyterlab's AGENTS.md convention|https://github.com/jupyterlab/jupyterlab-desktop/issues/1122|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
