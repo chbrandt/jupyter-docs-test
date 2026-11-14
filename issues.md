@@ -1,2 +1,105 @@
 |repo|number|title|url|
 |---|---|---|---|
+|jupyter/jupyter|785|Clean up the wiki here|https://github.com/jupyter/jupyter/issues/785|
+|jupyter/jupyter|751|In stable docs, search icon (magnifying glass) in top nav doesn't display|https://github.com/jupyter/jupyter/issues/751|
+|jupyter/jupyter|739|Update default install guidance|https://github.com/jupyter/jupyter/issues/739|
+|jupyter/jupyter|727|pip install on ubuntu doesn't.|https://github.com/jupyter/jupyter/issues/727|
+|jupyter/jupyter|704|"Jupyter kernels" wiki page: table incompletely visible|https://github.com/jupyter/jupyter/issues/704|
+|jupyter/jupyter|699|New Documentation Working Group proposal|https://github.com/jupyter/jupyter/issues/699|
+|jupyter/jupyter|683|Add persona centric docs|https://github.com/jupyter/jupyter/issues/683|
+|jupyter/jupyter|667|Use excalidraw for our manually-created diagrams|https://github.com/jupyter/jupyter/issues/667|
+|jupyter/jupyter|657|Refactor the documentation to use the main branch|https://github.com/jupyter/jupyter/issues/657|
+|jupyter/jupyter|620|A11y - Jupyter logo does not have enough contrast in dark mode|https://github.com/jupyter/jupyter/issues/620|
+|jupyter/jupyter|581|Why have an Advanced Topics section when there is only one "topic?"|https://github.com/jupyter/jupyter/issues/581|
+|jupyter/jupyter|511|Anyone want to help with a round of documentation improvements?|https://github.com/jupyter/jupyter/issues/511|
+|jupyter/jupyter|430|Translating Official Documentation to Spanish|https://github.com/jupyter/jupyter/issues/430|
+|jupyter/jupyter|424|Notebook server API documentation lacks information about trust|https://github.com/jupyter/jupyter/issues/424|
+|jupyter/jupyter|412|Some things we can improve in the documentation|https://github.com/jupyter/jupyter/issues/412|
+|jupyter/jupyter|373|Alternative client implementationto Jupyter-Notebook?|https://github.com/jupyter/jupyter/issues/373|
+|jupyter/jupyter|306|Create a man page|https://github.com/jupyter/jupyter/issues/306|
+|jupyter/jupyter|242|Document JSON config format|https://github.com/jupyter/jupyter/issues/242|
+|jupyter/jupyter|220|Glossary in docs|https://github.com/jupyter/jupyter/issues/220|
+|jupyter/jupyter|216|Review top-level docs for prospective kernel authors|https://github.com/jupyter/jupyter/issues/216|
+|jupyter/jupyter|190|How to cite Jupyter and its subprojects|https://github.com/jupyter/jupyter/issues/190|
+|jupyter/jupyter|159|[docs/theme] Pay attention to the "width" of screenshot.|https://github.com/jupyter/jupyter/issues/159|
+|jupyter/jupyter|109|Link to dev-install from Install section.|https://github.com/jupyter/jupyter/issues/109|
+|jupyter/jupyter|66|[Docs] list supported mimetype |https://github.com/jupyter/jupyter/issues/66|
+|jupyter/notebook|7983|Add jupyter-wide banner|https://github.com/jupyter/notebook/pull/7983|
+|jupyter/notebook|7777|How to set up CDN acceleration for static files across multiple extensions？|https://github.com/jupyter/notebook/issues/7777|
+|jupyter/notebook|7701|`Documentation Fix: Add clear instructions for local dev environment setup`|https://github.com/jupyter/notebook/issues/7701|
+|jupyter/notebook|7428|Document Running Notebook over SSH Tunnel|https://github.com/jupyter/notebook/issues/7428|
+|jupyter/notebook|7149|Provide access to the documentation for older version|https://github.com/jupyter/notebook/issues/7149|
+|jupyter/notebook|7148|Installation guide (android, termux)|https://github.com/jupyter/notebook/issues/7148|
+|jupyter/notebook|7029|Add guidelines for setting up development environment using yarn and npm in CONTRIBUTING.md|https://github.com/jupyter/notebook/issues/7029|
+|jupyter/notebook|6981|Rework Notebook 7 docs accessibility section|https://github.com/jupyter/notebook/issues/6981|
+|jupyter/notebook|6875|Get versioned Notebook framework trove classifiers on PyPI|https://github.com/jupyter/notebook/issues/6875|
+|jupyter/notebook|6849|Revise `pyzmq` requirements in documentation|https://github.com/jupyter/notebook/issues/6849|
+|jupyter/notebook|6848|Very poor navigation in new readthedocs builds|https://github.com/jupyter/notebook/issues/6848|
+|jupyter/notebook|6680|Add a large deprecation notice to the front-end extensions documentation|https://github.com/jupyter/notebook/issues/6680|
+|jupyter/notebook|6659|Document .ipynb_checkpoints directory|https://github.com/jupyter/notebook/issues/6659|
+|jupyter/notebook|4178|Buttons don't show up properly in Sphinx docs|https://github.com/jupyter/notebook/issues/4178|
+|jupyter/notebook|3550|Add faq entry about installing on python without sqlite extensions|https://github.com/jupyter/notebook/issues/3550|
+|jupyter/notebook|1643|Run cells from script or the command line?|https://github.com/jupyter/notebook/issues/1643|
+|jupyter/notebook|1473|Translating notebook contents|https://github.com/jupyter/notebook/issues/1473|
+|jupyter/notebook|916|File save hooks—docs & question|https://github.com/jupyter/notebook/issues/916|
+|jupyter/notebook|811|Internal links / references to outputs|https://github.com/jupyter/notebook/issues/811|
+|jupyter/notebook|788|Add a doc page for tips on using Spark|https://github.com/jupyter/notebook/issues/788|
+|jupyterhub/jupyterhub|5394|docs: clarify upgrade-db subcommand vs --upgrade-db flag|https://github.com/jupyterhub/jupyterhub/pull/5394|
+|jupyterhub/jupyterhub|5081|The API docs are incomplete|https://github.com/jupyterhub/jupyterhub/issues/5081|
+|jupyterhub/jupyterhub|4866|How to customise JupyterHub depending on group membership?|https://github.com/jupyterhub/jupyterhub/issues/4866|
+|jupyterhub/jupyterhub|4845|JupyterHub differs in `xsrf` behaviour from jupyter-server|https://github.com/jupyterhub/jupyterhub/issues/4845|
+|jupyterhub/jupyterhub|4673|Document / better support for separating user domains from the Hub domain|https://github.com/jupyterhub/jupyterhub/issues/4673|
+|jupyterhub/jupyterhub|4656|FastAPI service example - Authorization header not sent in subsequent requests|https://github.com/jupyterhub/jupyterhub/issues/4656|
+|jupyterhub/jupyterhub|4610|Better documentation on how to customize the home page|https://github.com/jupyterhub/jupyterhub/issues/4610|
+|jupyterhub/jupyterhub|4252|docs: classes generated docs sometimes include non-traits members, and sometimes do|https://github.com/jupyterhub/jupyterhub/issues/4252|
+|jupyterhub/jupyterhub|4241|More documentation on the implications of `server.name`|https://github.com/jupyterhub/jupyterhub/issues/4241|
+|jupyterhub/jupyterhub|4213|`post_auth_hook` documentation update|https://github.com/jupyterhub/jupyterhub/issues/4213|
+|jupyterhub/jupyterhub|4203|PAM Authentication failed|https://github.com/jupyterhub/jupyterhub/issues/4203|
+|jupyterhub/jupyterhub|4138|404 Error when try to "edit this page" on JupyterHub home page|https://github.com/jupyterhub/jupyterhub/issues/4138|
+|jupyterhub/jupyterhub|3814|Update JupyterHub REST API permission examples with jupyterhub-idle-culler|https://github.com/jupyterhub/jupyterhub/issues/3814|
+|jupyterhub/jupyterhub|3710|Unify the documentation for idle-culler|https://github.com/jupyterhub/jupyterhub/issues/3710|
+|jupyterhub/jupyterhub|3684|More detailed docs on direct network interactions|https://github.com/jupyterhub/jupyterhub/issues/3684|
+|jupyterhub/jupyterhub|3313|Documentation of jupyterhub.dbutil and alembic revisions|https://github.com/jupyterhub/jupyterhub/issues/3313|
+|jupyterhub/jupyterhub|3113|Missing HTTP security headers|https://github.com/jupyterhub/jupyterhub/issues/3113|
+|jupyterhub/jupyterhub|3080|Add a documentation section describing the structure of this repository|https://github.com/jupyterhub/jupyterhub/issues/3080|
+|jupyterhub/jupyterhub|2855|Auto-generate docs for telemetry events|https://github.com/jupyterhub/jupyterhub/issues/2855|
+|jupyterhub/jupyterhub|2593|Include the instruction `WorkingDirectory=/etc/jupyterhub` in system service Wiki|https://github.com/jupyterhub/jupyterhub/issues/2593|
+|jupyterhub/jupyterhub|2481|Include Debian package in documentation ? |https://github.com/jupyterhub/jupyterhub/issues/2481|
+|jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
+|jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
+|jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|20498|Move sidebar sections up and down without dragging|https://github.com/jupyterlab/jupyterlab/pull/20498|
+|jupyterlab/jupyterlab|20489|Move documentation to jupyter book 2|https://github.com/jupyterlab/jupyterlab/pull/20489|
+|jupyterlab/jupyterlab|20457|User-facing changelog for 4.7 release|https://github.com/jupyterlab/jupyterlab/pull/20457|
+|jupyterlab/jupyterlab|20409|Restore language pack search in the Extension Manager|https://github.com/jupyterlab/jupyterlab/pull/20409|
+|jupyterlab/jupyterlab|20321|Add an option to collapse the main menu into a menu button|https://github.com/jupyterlab/jupyterlab/pull/20321|
+|jupyterlab/jupyterlab|20173|docs: explain installing editor themes|https://github.com/jupyterlab/jupyterlab/pull/20173|
+|jupyterlab/jupyterlab|20089|Make the code console creation screencast reproducible|https://github.com/jupyterlab/jupyterlab/pull/20089|
+|jupyterlab/jupyterlab|19940|Upgrade Jest to 30|https://github.com/jupyterlab/jupyterlab/pull/19940|
+|jupyterlab/jupyterlab|19825|Document how services can be provided through extended tokens|https://github.com/jupyterlab/jupyterlab/pull/19825|
+|jupyterlab/jupyterlab|19735|Use plugin IDs to defer loading extension disabled by disabling all its plugins|https://github.com/jupyterlab/jupyterlab/pull/19735|
+|jupyterlab/jupyterlab|19614|Restore "Clear Outputs of All Cells" in Notebook context menu|https://github.com/jupyterlab/jupyterlab/pull/19614|
+|jupyterlab/jupyterlab|19380|Fix TypeDoc warnings and enforce warning-free documentation in CI|https://github.com/jupyterlab/jupyterlab/pull/19380|
+|jupyterlab/jupyterlab|19230|docs: document theme-aware extension styles|https://github.com/jupyterlab/jupyterlab/pull/19230|
+|jupyterlab/jupyterlab|19081|Fix default 'content' option in RestContentProvider fetch|https://github.com/jupyterlab/jupyterlab/pull/19081|
+|jupyterlab/jupyterlab|19033|Add Sphinx spelling script for changed doc lines|https://github.com/jupyterlab/jupyterlab/pull/19033|
+|jupyterlab/jupyterlab|18934|Document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18934|
+|jupyterlab/jupyterlab|18845|Fix `LabIcon` SVG ID collisions for gradients, use official Python and R icons|https://github.com/jupyterlab/jupyterlab/pull/18845|
+|jupyterlab/jupyterlab|18665|Docs: Document cell collapse first-line behavior (fixes #16179)|https://github.com/jupyterlab/jupyterlab/pull/18665|
+|jupyterlab/jupyterlab|18648|Add documentation for collapsing cells showing first line|https://github.com/jupyterlab/jupyterlab/pull/18648|
+|jupyterlab/jupyterlab|18442|Add a `CODEOWNERS` file|https://github.com/jupyterlab/jupyterlab/pull/18442|
+|jupyterlab/jupyterlab|18321|Docs: document how links are handled in notebooks|https://github.com/jupyterlab/jupyterlab/pull/18321|
+|jupyterlab/jupyterlab|18309|Docs: clarify editable vs generated files for non-developers|https://github.com/jupyterlab/jupyterlab/pull/18309|
+|jupyterlab/jupyterlab|18281|Explain file creation behavior with multiple drives|https://github.com/jupyterlab/jupyterlab/pull/18281|
+|jupyterlab/jupyterlab|18280|Docs: clarify workspace state DB key handling|https://github.com/jupyterlab/jupyterlab/pull/18280|
+|jupyterlab/jupyterlab|18242|Document runtime dependencies and security considerations|https://github.com/jupyterlab/jupyterlab/pull/18242|
+|jupyterlab/jupyterlab|18135|Jupyter Book for the documentation|https://github.com/jupyterlab/jupyterlab/issues/18135|
+|jupyterlab/jupyterlab|18117|JupyterLab Interface Becomes Unresponsive During Multi-Process CPU-Intensive Operations in Terminal/Notebook|https://github.com/jupyterlab/jupyterlab/issues/18117|
+|jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
+|jupyterlab/jupyterlab|18088|Fix broken docs header layout on mobile and medium screens|https://github.com/jupyterlab/jupyterlab/pull/18088|
+|jupyterlab/jupyterlab|18001|Windows Terminal: behavior unusual, lack of documentation|https://github.com/jupyterlab/jupyterlab/issues/18001|
+|jupyterlab/jupyterlab-desktop|1122|Adopt jupyterlab's AGENTS.md convention|https://github.com/jupyterlab/jupyterlab-desktop/issues/1122|
+|jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
+|jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
+|jupyterlab/jupyterlab-desktop|654|conversation starter for introductory docs|https://github.com/jupyterlab/jupyterlab-desktop/pull/654|
+|jupyterlab/jupyterlab-desktop|577|After upgrading JupyterLab using pip, I started jupyter-lab from the windows command and got an error.|https://github.com/jupyterlab/jupyterlab-desktop/issues/577|
