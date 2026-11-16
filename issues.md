@@ -68,8 +68,9 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|20511|List a subset of known (hard-coded) extensions in the Extension Manager|https://github.com/jupyterlab/jupyterlab/pull/20511|
+|jupyterlab/jupyterlab|20508|Add mockPageConfig fixture and utility to galata|https://github.com/jupyterlab/jupyterlab/pull/20508|
 |jupyterlab/jupyterlab|20489|Move documentation to jupyter book 2|https://github.com/jupyterlab/jupyterlab/pull/20489|
-|jupyterlab/jupyterlab|20409|Restore language pack search in the Extension Manager|https://github.com/jupyterlab/jupyterlab/pull/20409|
 |jupyterlab/jupyterlab|20321|Add an option to collapse the main menu into a menu button|https://github.com/jupyterlab/jupyterlab/pull/20321|
 |jupyterlab/jupyterlab|20173|docs: explain installing editor themes|https://github.com/jupyterlab/jupyterlab/pull/20173|
 |jupyterlab/jupyterlab|20089|Make the code console creation screencast reproducible|https://github.com/jupyterlab/jupyterlab/pull/20089|
@@ -97,7 +98,6 @@
 |jupyterlab/jupyterlab|18088|Fix broken docs header layout on mobile and medium screens|https://github.com/jupyterlab/jupyterlab/pull/18088|
 |jupyterlab/jupyterlab|18001|Windows Terminal: behavior unusual, lack of documentation|https://github.com/jupyterlab/jupyterlab/issues/18001|
 |jupyterlab/jupyterlab|17959|Improving documentation: typedoc on CI should treat warnings as errors|https://github.com/jupyterlab/jupyterlab/issues/17959|
-|jupyterlab/jupyterlab|17606|display dataFrame or series side By side|https://github.com/jupyterlab/jupyterlab/issues/17606|
 |jupyterlab/jupyterlab-desktop|1122|Adopt jupyterlab's AGENTS.md convention|https://github.com/jupyterlab/jupyterlab-desktop/issues/1122|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
