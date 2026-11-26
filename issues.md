@@ -71,7 +71,6 @@
 |jupyterlab/jupyterlab|20600|Show where to scope private CSS variables|https://github.com/jupyterlab/jupyterlab/pull/20600|
 |jupyterlab/jupyterlab|20599|Repair notebook example links in the release checklist|https://github.com/jupyterlab/jupyterlab/pull/20599|
 |jupyterlab/jupyterlab|20598|Explain how to show text beside a toolbar icon|https://github.com/jupyterlab/jupyterlab/pull/20598|
-|jupyterlab/jupyterlab|20573|Add pixi development config|https://github.com/jupyterlab/jupyterlab/pull/20573|
 |jupyterlab/jupyterlab|20571|Delete the obsolete Galata update workflow|https://github.com/jupyterlab/jupyterlab/pull/20571|
 |jupyterlab/jupyterlab|20508|Add mockPageConfig fixture and utility to galata|https://github.com/jupyterlab/jupyterlab/pull/20508|
 |jupyterlab/jupyterlab|20489|Move documentation to jupyter book 2|https://github.com/jupyterlab/jupyterlab/pull/20489|
@@ -98,6 +97,7 @@
 |jupyterlab/jupyterlab|18242|Document runtime dependencies and security considerations|https://github.com/jupyterlab/jupyterlab/pull/18242|
 |jupyterlab/jupyterlab|18135|Jupyter Book for the documentation|https://github.com/jupyterlab/jupyterlab/issues/18135|
 |jupyterlab/jupyterlab|18117|JupyterLab Interface Becomes Unresponsive During Multi-Process CPU-Intensive Operations in Terminal/Notebook|https://github.com/jupyterlab/jupyterlab/issues/18117|
+|jupyterlab/jupyterlab|18097|Document cell folding with first-line visibility and interaction behavior|https://github.com/jupyterlab/jupyterlab/pull/18097|
 |jupyterlab/jupyterlab-desktop|1122|Adopt jupyterlab's AGENTS.md convention|https://github.com/jupyterlab/jupyterlab-desktop/issues/1122|
 |jupyterlab/jupyterlab-desktop|891|Improve documentation for running alternative kernels|https://github.com/jupyterlab/jupyterlab-desktop/issues/891|
 |jupyterlab/jupyterlab-desktop|666|Support Windows Subsystem for Linux (WSL)|https://github.com/jupyterlab/jupyterlab-desktop/issues/666|
