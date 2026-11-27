@@ -68,11 +68,11 @@
 |jupyterhub/jupyterhub|2134|Docs: Unclear / confusing DB upgrade instructions|https://github.com/jupyterhub/jupyterhub/issues/2134|
 |jupyterhub/jupyterhub|2049|Docs: Missing a chapter on monitoring / observability|https://github.com/jupyterhub/jupyterhub/issues/2049|
 |jupyterhub/jupyterhub|1310|Customize DockerHub documentation for JupyterHub|https://github.com/jupyterhub/jupyterhub/issues/1310|
+|jupyterlab/jupyterlab|20643|Update Lumino to `v2026.11.26`|https://github.com/jupyterlab/jupyterlab/pull/20643|
 |jupyterlab/jupyterlab|20600|Show where to scope private CSS variables|https://github.com/jupyterlab/jupyterlab/pull/20600|
 |jupyterlab/jupyterlab|20599|Repair notebook example links in the release checklist|https://github.com/jupyterlab/jupyterlab/pull/20599|
 |jupyterlab/jupyterlab|20598|Explain how to show text beside a toolbar icon|https://github.com/jupyterlab/jupyterlab/pull/20598|
 |jupyterlab/jupyterlab|20571|Delete the obsolete Galata update workflow|https://github.com/jupyterlab/jupyterlab/pull/20571|
-|jupyterlab/jupyterlab|20508|Add mockPageConfig fixture and utility to galata|https://github.com/jupyterlab/jupyterlab/pull/20508|
 |jupyterlab/jupyterlab|20489|Move documentation to jupyter book 2|https://github.com/jupyterlab/jupyterlab/pull/20489|
 |jupyterlab/jupyterlab|20321|Add an option to collapse the main menu into a menu button|https://github.com/jupyterlab/jupyterlab/pull/20321|
 |jupyterlab/jupyterlab|20173|docs: explain installing editor themes|https://github.com/jupyterlab/jupyterlab/pull/20173|
